@@ -1,0 +1,7634 @@
+[
+  {
+    "id": 1,
+    "name": "אבו ג'ווייעד )שבט(       ",
+    "eng_name": "ABU JUWEI'ID             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 4,
+    "name": "אבו סריחאן )שבט(         ",
+    "eng_name": "ABU SUREIHAN             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 2,
+    "name": "אבו גוש                  ",
+    "eng_name": "ABU GHOSH                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 5,
+    "name": "אבו עבדון )שבט(          ",
+    "eng_name": "ABU  ABDUN               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 3,
+    "name": "אבו סנאן                 ",
+    "eng_name": "ABU SINAN                ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 7,
+    "name": "אבו עמרה )שבט(           ",
+    "eng_name": "ABU  AMRE                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 8,
+    "name": "אבו קורינאת )שבט(        ",
+    "eng_name": "ABU QUREINAT             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 10,
+    "name": "אבו רובייעה )שבט(        ",
+    "eng_name": "ABU RUBEI'A              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 11,
+    "name": "אבו רוקייק )שבט(         ",
+    "eng_name": "ABU RUQAYYEQ             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 12,
+    "name": "אבו תלול                 ",
+    "eng_name": "ABU TULUL                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 13,
+    "name": "אבטין                    ",
+    "eng_name": "IBTIN                    ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 9,
+    "name": "אבו קרינאת )יישוב(       ",
+    "eng_name": "ABU QUREINAT             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 14,
+    "name": "אבטליון                  ",
+    "eng_name": "AVTALYON                 ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 15,
+    "name": "אביאל                    ",
+    "eng_name": "AVI'EL                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 16,
+    "name": "אביבים                   ",
+    "eng_name": "AVIVIM                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 17,
+    "name": "אביגדור                  ",
+    "eng_name": "AVIGEDOR                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 18,
+    "name": "אביחיל                   ",
+    "eng_name": "AVIHAYIL                 ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 20,
+    "name": "אביעזר                   ",
+    "eng_name": "AVI'EZER                 ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 21,
+    "name": "אבירים                   ",
+    "eng_name": "ABBIRIM                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 22,
+    "name": "אבן יהודה                ",
+    "eng_name": "EVEN YEHUDA              ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 19,
+    "name": "אביטל                    ",
+    "eng_name": "AVITAL                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 23,
+    "name": "אבן מנחם                 ",
+    "eng_name": "EVEN MENAHEM             ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 6,
+    "name": "אבו עמאר )שבט(           ",
+    "eng_name": "ABU  AMMAR               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 25,
+    "name": "אבן שמואל                ",
+    "eng_name": "EVEN SHEMU'EL            ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 24,
+    "name": "אבן ספיר                 ",
+    "eng_name": "EVEN SAPPIR              ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 28,
+    "name": "אבנת                     ",
+    "eng_name": "AVENAT                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 27,
+    "name": "אבני חפץ                 ",
+    "eng_name": "AVNE HEFEZ               ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 30,
+    "name": "אדורה                    ",
+    "eng_name": "ADORA                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 26,
+    "name": "אבני איתן                ",
+    "eng_name": "AVNE ETAN                ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 29,
+    "name": "אבשלום                   ",
+    "eng_name": "AVSHALOM                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 32,
+    "name": "אדמית                    ",
+    "eng_name": "ADAMIT                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 31,
+    "name": "אדירים                   ",
+    "eng_name": "ADDIRIM                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 33,
+    "name": "אדרת                     ",
+    "eng_name": "ADDERET                  ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 36,
+    "name": "אוהד                     ",
+    "eng_name": "OHAD                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 37,
+    "name": "אום אל-פחם               ",
+    "eng_name": "UMM AL-FAHM              ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 34,
+    "name": "אודים                    ",
+    "eng_name": "UDIM                     ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 39,
+    "name": "אום בטין                 ",
+    "eng_name": "UMM BATIN                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 38,
+    "name": "אום אל-קוטוף             ",
+    "eng_name": "UMM AL-QUTUF             ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 40,
+    "name": "אומן                     ",
+    "eng_name": "OMEN                     ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 35,
+    "name": "אודם                     ",
+    "eng_name": "ODEM                     ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 43,
+    "name": "אור הגנוז                ",
+    "eng_name": "OR HAGANUZ               ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 42,
+    "name": "אופקים                   ",
+    "eng_name": "OFAQIM                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 41,
+    "name": "אומץ                     ",
+    "eng_name": "OMEZ                     ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 44,
+    "name": "אור הנר                  ",
+    "eng_name": "OR HANER                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 47,
+    "name": "אורה                     ",
+    "eng_name": "ORA                      ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 48,
+    "name": "אורות                    ",
+    "eng_name": "OROT                     ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 46,
+    "name": "אור עקיבא                ",
+    "eng_name": "OR AQIVA                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 45,
+    "name": "אור יהודה                ",
+    "eng_name": "OR YEHUDA                ",
+    "lodge": "רמת גן                   "
+  },
+  {
+    "id": 50,
+    "name": "אורים                    ",
+    "eng_name": "URIM                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 51,
+    "name": "אורנים                   ",
+    "eng_name": "ORANIM                   ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 52,
+    "name": "אורנית                   ",
+    "eng_name": "ORANIT                   ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 53,
+    "name": "אושה                     ",
+    "eng_name": "USHA                     ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 49,
+    "name": "אורטל                    ",
+    "eng_name": "ORTAL                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 55,
+    "name": "אחווה                    ",
+    "eng_name": "AHAWA                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 57,
+    "name": "אחוזת ברק                ",
+    "eng_name": "AHUZZAT BARAQ            ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 58,
+    "name": "אחיהוד                   ",
+    "eng_name": "AHIHUD                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 56,
+    "name": "אחוזם                    ",
+    "eng_name": "AHUZZAM                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 60,
+    "name": "אחיסמך                   ",
+    "eng_name": "AHISAMAKH                ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 59,
+    "name": "אחיטוב                   ",
+    "eng_name": "AHITUV                   ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 62,
+    "name": "אטרש )שבט(               ",
+    "eng_name": "ATRASH                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 61,
+    "name": "אחיעזר                   ",
+    "eng_name": "AHI'EZER                 ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 64,
+    "name": "אייל                     ",
+    "eng_name": "EYAL                     ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 54,
+    "name": "אזור                     ",
+    "eng_name": "AZOR                     ",
+    "lodge": "חולון                    "
+  },
+  {
+    "id": 65,
+    "name": "איילת השחר               ",
+    "eng_name": "AYYELET HASHAHAR         ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 63,
+    "name": "איבים                    ",
+    "eng_name": "IBBIM                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 67,
+    "name": "אילות                    ",
+    "eng_name": "ELOT                     ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 66,
+    "name": "אילון                    ",
+    "eng_name": "ELON                     ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 69,
+    "name": "אילת                     ",
+    "eng_name": "ELAT                     ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 70,
+    "name": "אירוס                    ",
+    "eng_name": "IRUS                     ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 68,
+    "name": "אילניה                   ",
+    "eng_name": "ILANIYYA                 ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 72,
+    "name": "איתן                     ",
+    "eng_name": "ETAN                     ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 73,
+    "name": "איתנים                   ",
+    "eng_name": "ETANIM                   ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 71,
+    "name": "איתמר                    ",
+    "eng_name": "ITAMAR                   ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 74,
+    "name": "אכסאל                    ",
+    "eng_name": "IKSAL                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 75,
+    "name": "אל סייד                  ",
+    "eng_name": "AL SAYYID                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 77,
+    "name": "אל-עריאן                 ",
+    "eng_name": "AL-ARYAN                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 76,
+    "name": "אל-עזי                   ",
+    "eng_name": "AL-AZY                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 80,
+    "name": "אלומות                   ",
+    "eng_name": "ALUMMOT                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 79,
+    "name": "אלומה                    ",
+    "eng_name": "ALUMMA                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 78,
+    "name": "אל-רום                   ",
+    "eng_name": "EL-ROM                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 82,
+    "name": "אלון מורה                ",
+    "eng_name": "ELON MORE                ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 81,
+    "name": "אלון הגליל               ",
+    "eng_name": "ALLON HAGALIL            ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 83,
+    "name": "אלון שבות                ",
+    "eng_name": "ALLON SHEVUT             ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 84,
+    "name": "אלוני אבא                ",
+    "eng_name": "ALLONE ABBA              ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 85,
+    "name": "אלוני הבשן               ",
+    "eng_name": "ALLONE HABASHAN          ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 86,
+    "name": "אלוני יצחק               ",
+    "eng_name": "ALLONE YIZHAQ            ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 87,
+    "name": "אלונים                   ",
+    "eng_name": "ALLONIM                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 90,
+    "name": "אליכין                   ",
+    "eng_name": "ELYAKHIN                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 89,
+    "name": "אליאב                    ",
+    "eng_name": "ELIAV                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 91,
+    "name": "אליפז                    ",
+    "eng_name": "ELIFAZ                   ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 88,
+    "name": "אלי-עד                   ",
+    "eng_name": "ELI AL                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 92,
+    "name": "אליפלט                   ",
+    "eng_name": "ELIFELET                 ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 94,
+    "name": "אלישיב                   ",
+    "eng_name": "ELYASHIV                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 93,
+    "name": "אליקים                   ",
+    "eng_name": "ELYAQIM                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 95,
+    "name": "אלישמע                   ",
+    "eng_name": "ELISHAMA                 ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 97,
+    "name": "אלמוג                    ",
+    "eng_name": "ALMOG                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 98,
+    "name": "אלעד                     ",
+    "eng_name": "EL'AD                    ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 96,
+    "name": "אלמגור                   ",
+    "eng_name": "ALMAGOR                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 101,
+    "name": "אלקוש                    ",
+    "eng_name": "ELQOSH                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 99,
+    "name": "אלעזר                    ",
+    "eng_name": "EL'AZAR                  ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 103,
+    "name": "אמונים                   ",
+    "eng_name": "EMUNIM                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 102,
+    "name": "אלקנה                    ",
+    "eng_name": "ELQANA                   ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 104,
+    "name": "אמירים                   ",
+    "eng_name": "AMIRIM                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 105,
+    "name": "אמנון                    ",
+    "eng_name": "AMNUN                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 106,
+    "name": "אמציה                    ",
+    "eng_name": "AMAZYA                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 107,
+    "name": "אניעם                    ",
+    "eng_name": "ANI'AM                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 100,
+    "name": "אלפי מנשה                ",
+    "eng_name": "ALFE MENASHE             ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 108,
+    "name": "אסד )שבט(                ",
+    "eng_name": "ASAD                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 109,
+    "name": "אספר                     ",
+    "eng_name": "ASEFAR                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 111,
+    "name": "אעצם )שבט(               ",
+    "eng_name": "A'SAM                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 112,
+    "name": "אפיניש )שבט(             ",
+    "eng_name": "AFEINISH                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 113,
+    "name": "אפיק                     ",
+    "eng_name": "AFIQ                     ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 114,
+    "name": "אפיקים                   ",
+    "eng_name": "AFIQIM                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 110,
+    "name": "אעבלין                   ",
+    "eng_name": "I'BILLIN                 ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 115,
+    "name": "אפק                      ",
+    "eng_name": "AFEQ                     ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 117,
+    "name": "ארבל                     ",
+    "eng_name": "ARBEL                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 116,
+    "name": "אפרת                     ",
+    "eng_name": "EFRAT                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 119,
+    "name": "ארז                      ",
+    "eng_name": "EREZ                     ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 118,
+    "name": "ארגמן                    ",
+    "eng_name": "ARGAMAN                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 121,
+    "name": "ארסוף                    ",
+    "eng_name": "ARSUF                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 123,
+    "name": "אשבל                     ",
+    "eng_name": "NAHAL ESHBAL             ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 122,
+    "name": "אשבול                    ",
+    "eng_name": "ESHBOL                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 124,
+    "name": "אשדוד                    ",
+    "eng_name": "ASHDOD                   ",
+    "lodge": "אשדוד                    "
+  },
+  {
+    "id": 120,
+    "name": "אריאל                    ",
+    "eng_name": "ARI'EL                   ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 125,
+    "name": "אשדות יעקב  )איחוד(      ",
+    "eng_name": "ASHDOT YA'AQOV(IHUD)     ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 127,
+    "name": "אשחר                     ",
+    "eng_name": "ESHHAR                   ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 126,
+    "name": "אשדות יעקב  )מאוחד(      ",
+    "eng_name": "ASHDOT YA'AQOV(ME'UH     ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 128,
+    "name": "אשכולות                  ",
+    "eng_name": "ESHKOLOT                 ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 129,
+    "name": "אשל הנשיא                ",
+    "eng_name": "ESHEL HANASI             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 250,
+    "name": "ג'נאביב )שבט(            ",
+    "eng_name": "JUNNABIB                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 130,
+    "name": "אשלים                    ",
+    "eng_name": "ASHALIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 132,
+    "name": "אשרת                     ",
+    "eng_name": "ASHERAT                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 133,
+    "name": "אשתאול                   ",
+    "eng_name": "ESHTA'OL                 ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 131,
+    "name": "אשקלון                   ",
+    "eng_name": "ASHQELON                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 134,
+    "name": "אתגר                     ",
+    "eng_name": "ETGAR                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 136,
+    "name": "באר אורה                 ",
+    "eng_name": "BE'ER ORA                ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 135,
+    "name": "באקה אל-גרביה            ",
+    "eng_name": "BAQA AL-GHARBIYYE        ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 137,
+    "name": "באר גנים                 ",
+    "eng_name": "BEER GANNIM              ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 139,
+    "name": "באר יעקב                 ",
+    "eng_name": "BE'ER YA'AQOV            ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 138,
+    "name": "באר טוביה                ",
+    "eng_name": "BE'ER TUVEYA             ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 142,
+    "name": "בארות יצחק               ",
+    "eng_name": "BE'EROT YIZHAQ           ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 140,
+    "name": "באר מילכה                ",
+    "eng_name": "BE'ER MILKA              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 143,
+    "name": "בארותיים                 ",
+    "eng_name": "BE'EROTAYIM              ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 141,
+    "name": "באר שבע                  ",
+    "eng_name": "BE'ER SHEVA              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 144,
+    "name": "בארי                     ",
+    "eng_name": "BE'ERI                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 145,
+    "name": "בוסתן הגליל              ",
+    "eng_name": "BUSTAN HAGALIL           ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 146,
+    "name": "בועיינה-נוג'ידאת         ",
+    "eng_name": "BU'EINE-NUJEIDAT         ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 147,
+    "name": "בוקעאתא                  ",
+    "eng_name": "BUQ'ATA                  ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 148,
+    "name": "בורגתה                   ",
+    "eng_name": "BURGETA                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 150,
+    "name": "בטחה                     ",
+    "eng_name": "BITHA                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 151,
+    "name": "ביצרון                   ",
+    "eng_name": "BIZZARON                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 153,
+    "name": "ביר הדאג'                ",
+    "eng_name": "BIR HADAGE               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 149,
+    "name": "בחן                      ",
+    "eng_name": "BAHAN                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 155,
+    "name": "בית אורן                 ",
+    "eng_name": "BET OREN                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 152,
+    "name": "ביר אל-מכסור             ",
+    "eng_name": "BIR EL-MAKSUR            ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 154,
+    "name": "ביריה                    ",
+    "eng_name": "BIRIYYA                  ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 157,
+    "name": "בית אלעזרי               ",
+    "eng_name": "BET EL'AZARI             ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 156,
+    "name": "בית אל                   ",
+    "eng_name": "BET EL                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 158,
+    "name": "בית אלפא                 ",
+    "eng_name": "BET ALFA                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 160,
+    "name": "בית ברל                  ",
+    "eng_name": "BET BERL                 ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 159,
+    "name": "בית אריה                 ",
+    "eng_name": "BET ARYE                 ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 162,
+    "name": "בית גוברין               ",
+    "eng_name": "BET GUVRIN               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 163,
+    "name": "בית גמליאל               ",
+    "eng_name": "BET GAMLI'EL             ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 161,
+    "name": "בית ג'ן                  ",
+    "eng_name": "BEIT JANN                ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 165,
+    "name": "בית הגדי                 ",
+    "eng_name": "BET HAGADDI              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 164,
+    "name": "בית דגן                  ",
+    "eng_name": "BET DAGAN                ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 166,
+    "name": "בית הלוי                 ",
+    "eng_name": "BET HALEVI               ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 167,
+    "name": "בית הלל                  ",
+    "eng_name": "BET HILLEL               ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 913,
+    "name": "סח'נין                   ",
+    "eng_name": "SAKHNIN                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 168,
+    "name": "בית העמק                 ",
+    "eng_name": "BET HAEMEQ               ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 169,
+    "name": "בית הערבה                ",
+    "eng_name": "BET HAARAVA              ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 170,
+    "name": "בית השיטה                ",
+    "eng_name": "BET HASHITTA             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 171,
+    "name": "בית זיד                  ",
+    "eng_name": "BET ZEID                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 174,
+    "name": "בית חורון                ",
+    "eng_name": "BET HORON                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 172,
+    "name": "בית זית                  ",
+    "eng_name": "BET ZAYIT                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 173,
+    "name": "בית זרע                  ",
+    "eng_name": "BET ZERA                 ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 176,
+    "name": "בית חלקיה                ",
+    "eng_name": "BET HILQIYYA             ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 177,
+    "name": "בית חנן                  ",
+    "eng_name": "BET HANAN                ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 175,
+    "name": "בית חירות                ",
+    "eng_name": "BET HERUT                ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 178,
+    "name": "בית חנניה                ",
+    "eng_name": "BET HANANYA              ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 180,
+    "name": "בית יהושע                ",
+    "eng_name": "BET YEHOSHUA             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 179,
+    "name": "בית חשמונאי              ",
+    "eng_name": "BET HASHMONAY            ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 182,
+    "name": "בית ינאי                 ",
+    "eng_name": "BET YANNAY               ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 181,
+    "name": "בית יוסף                 ",
+    "eng_name": "BET YOSEF                ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 185,
+    "name": "בית מאיר                 ",
+    "eng_name": "BET ME'IR                ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 184,
+    "name": "בית לחם הגלילית          ",
+    "eng_name": "BET LEHEM HAGELILIT      ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 183,
+    "name": "בית יצחק-שער חפר         ",
+    "eng_name": "BET YIZHAQ-SH. HEFER     ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 186,
+    "name": "בית נחמיה                ",
+    "eng_name": "BET NEHEMYA              ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 188,
+    "name": "בית נקופה                ",
+    "eng_name": "BET NEQOFA               ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 189,
+    "name": "בית עובד                 ",
+    "eng_name": "BET OVED                 ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 190,
+    "name": "בית עוזיאל               ",
+    "eng_name": "BET UZZI'EL              ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 187,
+    "name": "בית ניר                  ",
+    "eng_name": "BET NIR                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 191,
+    "name": "בית עזרא                 ",
+    "eng_name": "BET EZRA                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 192,
+    "name": "בית עריף                 ",
+    "eng_name": "BET ARIF                 ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 195,
+    "name": "בית קשת                  ",
+    "eng_name": "BET QESHET               ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 193,
+    "name": "בית צבי                  ",
+    "eng_name": "BET ZEVI                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 196,
+    "name": "בית רבן                  ",
+    "eng_name": "BET RABBAN               ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 197,
+    "name": "בית רימון                ",
+    "eng_name": "BET RIMMON               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 194,
+    "name": "בית קמה                  ",
+    "eng_name": "BET QAMA                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 198,
+    "name": "בית שאן                  ",
+    "eng_name": "BET SHE'AN               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 199,
+    "name": "בית שמש                  ",
+    "eng_name": "BET SHEMESH              ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 200,
+    "name": "בית שערים                ",
+    "eng_name": "BET SHE'ARIM             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 201,
+    "name": "בית שקמה                 ",
+    "eng_name": "BET SHIQMA               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 202,
+    "name": "ביתן אהרן                ",
+    "eng_name": "BITAN AHARON             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 204,
+    "name": "בלפוריה                  ",
+    "eng_name": "BALFURIYYA               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 205,
+    "name": "בן זכאי                  ",
+    "eng_name": "BEN ZAKKAY               ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 206,
+    "name": "בן עמי                   ",
+    "eng_name": "BEN AMMI                 ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 203,
+    "name": "ביתר עילית               ",
+    "eng_name": "BETAR ILLIT              ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 208,
+    "name": "בן שמן )מושב(            ",
+    "eng_name": "BEN SHEMEN (MOSHAV)      ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 207,
+    "name": "בן שמן )כפר נוער(        ",
+    "eng_name": "BEN SHEMEN(K.NO'AR)      ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 209,
+    "name": "בני ברק                  ",
+    "eng_name": "BENE BERAQ               ",
+    "lodge": "בני ברק                  "
+  },
+  {
+    "id": 210,
+    "name": "בני דקלים                ",
+    "eng_name": "BNE DKALIM               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 211,
+    "name": "בני דרום                 ",
+    "eng_name": "BENE DAROM               ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 213,
+    "name": "בני יהודה                ",
+    "eng_name": "BENE YEHUDA              ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 212,
+    "name": "בני דרור                 ",
+    "eng_name": "BENE DEROR               ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 215,
+    "name": "בני עטרות                ",
+    "eng_name": "BENE ATAROT              ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 214,
+    "name": "בני נצרים                ",
+    "eng_name": "BENE NEZARIM             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 217,
+    "name": "בני ציון                 ",
+    "eng_name": "BENE ZIYYON              ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 216,
+    "name": "בני עי\"ש                 ",
+    "eng_name": "BENE AYISH               ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 218,
+    "name": "בני ראם                  ",
+    "eng_name": "BENE RE'EM               ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 219,
+    "name": "בניה                     ",
+    "eng_name": "BENAYA                   ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 221,
+    "name": "בסמ\"ה                    ",
+    "eng_name": "BASMA                    ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 220,
+    "name": "בנימינה-גבעת עדה         ",
+    "eng_name": "BINYAMINA                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 223,
+    "name": "בענה                     ",
+    "eng_name": "BI NE                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 222,
+    "name": "בסמת טבעון               ",
+    "eng_name": "BASMAT TAB'UN            ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 225,
+    "name": "בצת                      ",
+    "eng_name": "BEZET                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 224,
+    "name": "בצרה                     ",
+    "eng_name": "BAZRA                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 226,
+    "name": "בקוע                     ",
+    "eng_name": "BEQOA                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 227,
+    "name": "בקעות                    ",
+    "eng_name": "BEQA'OT                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 228,
+    "name": "בר גיורא                 ",
+    "eng_name": "BAR GIYYORA              ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 230,
+    "name": "ברוכין                   ",
+    "eng_name": "BRUKHIN                  ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 229,
+    "name": "בר יוחאי                 ",
+    "eng_name": "BAR YOHAY                ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 231,
+    "name": "ברור חיל                 ",
+    "eng_name": "BEROR HAYIL              ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 233,
+    "name": "ברכה                     ",
+    "eng_name": "BERAKHA                  ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 232,
+    "name": "ברוש                     ",
+    "eng_name": "BEROSH                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 234,
+    "name": "ברכיה                    ",
+    "eng_name": "BEREKHYA                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 237,
+    "name": "ברקאי                    ",
+    "eng_name": "BARQAY                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 235,
+    "name": "ברעם                     ",
+    "eng_name": "BAR'AM                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 239,
+    "name": "ברקת                     ",
+    "eng_name": "BAREQET                  ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 238,
+    "name": "ברקן                     ",
+    "eng_name": "BARQAN                   ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 236,
+    "name": "ברק                      ",
+    "eng_name": "BARAQ                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 240,
+    "name": "בת הדר                   ",
+    "eng_name": "BAT HADAR                ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 241,
+    "name": "בת חן                    ",
+    "eng_name": "BAT HEN                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 242,
+    "name": "בת חפר                   ",
+    "eng_name": "BAT HEFER                ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 243,
+    "name": "בת חצור                  ",
+    "eng_name": "BAT HAZOR                ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 245,
+    "name": "בת עין                   ",
+    "eng_name": "BAT AYIN                 ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 246,
+    "name": "בת שלמה                  ",
+    "eng_name": "BAT SHELOMO              ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 244,
+    "name": "בת ים                    ",
+    "eng_name": "BAT YAM                  ",
+    "lodge": "חולון                    "
+  },
+  {
+    "id": 247,
+    "name": "ג'דיידה-מכר              ",
+    "eng_name": "JUDEIDE-MAKER            ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 249,
+    "name": "ג'לג'וליה                ",
+    "eng_name": "JALJULYE                 ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 251,
+    "name": "ג'סר א-זרקא              ",
+    "eng_name": "JISR AZ-ZARQA            ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 248,
+    "name": "ג'ולס                    ",
+    "eng_name": "JULIS                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 252,
+    "name": "ג'ש )גוש חלב(            ",
+    "eng_name": "JISH(GUSH HALAV)         ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 254,
+    "name": "גאולי תימן               ",
+    "eng_name": "GE'ULE TEMAN             ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 255,
+    "name": "גאולים                   ",
+    "eng_name": "GE'ULIM                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 253,
+    "name": "ג'ת                      ",
+    "eng_name": "JAAT                     ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 256,
+    "name": "גאליה                    ",
+    "eng_name": "GE'ALYA                  ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 258,
+    "name": "גבים                     ",
+    "eng_name": "GEVIM                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 260,
+    "name": "גבע בנימין               ",
+    "eng_name": "GEVA BINYAMIN            ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 259,
+    "name": "גבע                      ",
+    "eng_name": "GEVA                     ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 257,
+    "name": "גבולות                   ",
+    "eng_name": "GEVULOT                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 262,
+    "name": "גבעולים                  ",
+    "eng_name": "GIV'OLIM                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 261,
+    "name": "גבע כרמל                 ",
+    "eng_name": "GEVA  KARMEL             ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 263,
+    "name": "גבעון החדשה              ",
+    "eng_name": "GIV'ON HAHADASHA         ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 264,
+    "name": "גבעות בר                 ",
+    "eng_name": "GEVA'OT BAR              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 265,
+    "name": "גבעת אבני                ",
+    "eng_name": "GIV'AT AVNI              ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 266,
+    "name": "גבעת אלה                 ",
+    "eng_name": "GIV'AT ELA               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 268,
+    "name": "גבעת השלושה              ",
+    "eng_name": "GIV'AT HASHELOSHA        ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 269,
+    "name": "גבעת זאב                 ",
+    "eng_name": "GIV'AT ZE'EV             ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 270,
+    "name": "גבעת ח\"ן                 ",
+    "eng_name": "GIV'AT HEN               ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 271,
+    "name": "גבעת חיים )איחוד(        ",
+    "eng_name": "GIV'AT HAYYIM (IHUD)     ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 267,
+    "name": "גבעת ברנר                ",
+    "eng_name": "GIV'AT BRENNER           ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 272,
+    "name": "גבעת חיים )מאוחד(        ",
+    "eng_name": "GIV'AT HAYYIM(ME'UHA     ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 274,
+    "name": "גבעת יערים               ",
+    "eng_name": "GIV'AT YE'ARIM           ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 275,
+    "name": "גבעת ישעיהו              ",
+    "eng_name": "GIV'AT YESHA'YAHU        ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 273,
+    "name": "גבעת יואב                ",
+    "eng_name": "GIV'AT YO'AV             ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 276,
+    "name": "גבעת כ\"ח                 ",
+    "eng_name": "GIV'AT KOAH              ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 277,
+    "name": "גבעת ניל\"י               ",
+    "eng_name": "GIV'AT NILI              ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 279,
+    "name": "גבעת שמואל               ",
+    "eng_name": "GIV'AT SHEMU'EL          ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 278,
+    "name": "גבעת עוז                 ",
+    "eng_name": "GIV'AT OZ                ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 282,
+    "name": "גבעתי                    ",
+    "eng_name": "GIV'ATI                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 280,
+    "name": "גבעת שמש                 ",
+    "eng_name": "GIV'AT SHEMESH           ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 281,
+    "name": "גבעת שפירא               ",
+    "eng_name": "GIV'AT SHAPPIRA          ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 283,
+    "name": "גבעתיים                  ",
+    "eng_name": "GIV'ATAYIM               ",
+    "lodge": "רמת גן                   "
+  },
+  {
+    "id": 284,
+    "name": "גברעם                    ",
+    "eng_name": "GEVAR'AM                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 285,
+    "name": "גבת                      ",
+    "eng_name": "GEVAT                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 287,
+    "name": "גדיש                     ",
+    "eng_name": "GADISH                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 288,
+    "name": "גדעונה                   ",
+    "eng_name": "GID'ONA                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 286,
+    "name": "גדות                     ",
+    "eng_name": "GADOT                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 290,
+    "name": "גונן                     ",
+    "eng_name": "GONEN                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 292,
+    "name": "גורנות הגליל             ",
+    "eng_name": "GORNOT HAGALIL           ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 289,
+    "name": "גדרה                     ",
+    "eng_name": "GEDERA                   ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 293,
+    "name": "גזית                     ",
+    "eng_name": "GAZIT                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 291,
+    "name": "גורן                     ",
+    "eng_name": "GOREN                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 295,
+    "name": "גיאה                     ",
+    "eng_name": "GE'A                     ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 296,
+    "name": "גיבתון                   ",
+    "eng_name": "GIBBETON                 ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 297,
+    "name": "גיזו                     ",
+    "eng_name": "GIZO                     ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 298,
+    "name": "גילון                    ",
+    "eng_name": "GILON                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 294,
+    "name": "גזר                      ",
+    "eng_name": "GEZER                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 299,
+    "name": "גילת                     ",
+    "eng_name": "GILAT                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 301,
+    "name": "גיניגר                   ",
+    "eng_name": "GINNEGAR                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 300,
+    "name": "גינוסר                   ",
+    "eng_name": "GINNOSAR                 ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 302,
+    "name": "גינתון                   ",
+    "eng_name": "GINNATON                 ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 304,
+    "name": "גיתית                    ",
+    "eng_name": "GITTIT                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 305,
+    "name": "גלאון                    ",
+    "eng_name": "GAL'ON                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 303,
+    "name": "גיתה                     ",
+    "eng_name": "GITTA                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 306,
+    "name": "גלגל                     ",
+    "eng_name": "GILGAL                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 308,
+    "name": "גלעד )אבן יצחק(          ",
+    "eng_name": "EVEN YIZHAQ(GAL'ED)      ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 307,
+    "name": "גליל ים                  ",
+    "eng_name": "GELIL YAM                ",
+    "lodge": "הרצליה                   "
+  },
+  {
+    "id": 310,
+    "name": "גן הדרום                 ",
+    "eng_name": "GAN HADAROM              ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 309,
+    "name": "גמזו                     ",
+    "eng_name": "GIMZO                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 312,
+    "name": "גן חיים                  ",
+    "eng_name": "GAN HAYYIM               ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 314,
+    "name": "גן יבנה                  ",
+    "eng_name": "GAN YAVNE                ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 313,
+    "name": "גן יאשיה                 ",
+    "eng_name": "GAN YOSHIYYA             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 315,
+    "name": "גן נר                    ",
+    "eng_name": "GAN NER                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 316,
+    "name": "גן שורק                  ",
+    "eng_name": "GAN SOREQ                ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 318,
+    "name": "גן שמואל                 ",
+    "eng_name": "GAN SHEMU'EL             ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 317,
+    "name": "גן שלמה                  ",
+    "eng_name": "GAN SHELOMO              ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 319,
+    "name": "גנות                     ",
+    "eng_name": "GANNOT                   ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 320,
+    "name": "גנות הדר                 ",
+    "eng_name": "GANNOT HADAR             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 311,
+    "name": "גן השומרון               ",
+    "eng_name": "GAN HASHOMERON           ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 322,
+    "name": "גני טל                   ",
+    "eng_name": "GANNE TAL                ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 324,
+    "name": "גני מודיעין              ",
+    "eng_name": "GANNE MODIIN             ",
+    "lodge": "מודיעין                  "
+  },
+  {
+    "id": 325,
+    "name": "גני עם                   ",
+    "eng_name": "GANNE AM                 ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 321,
+    "name": "גני הדר                  ",
+    "eng_name": "GANNE HADAR              ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 326,
+    "name": "גני תקווה                ",
+    "eng_name": "GANNE TIQWA              ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 323,
+    "name": "גני יוחנן                ",
+    "eng_name": "GANNE YOHANAN            ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 327,
+    "name": "געש                      ",
+    "eng_name": "GA'ASH                   ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 329,
+    "name": "גפן                      ",
+    "eng_name": "GEFEN                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 330,
+    "name": "גרופית                   ",
+    "eng_name": "GEROFIT                  ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 331,
+    "name": "גשור                     ",
+    "eng_name": "GESHUR                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 328,
+    "name": "געתון                    ",
+    "eng_name": "GA'TON                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 333,
+    "name": "גשר הזיו                 ",
+    "eng_name": "GESHER HAZIW             ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 335,
+    "name": "גת רימון                 ",
+    "eng_name": "GAT RIMMON               ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 332,
+    "name": "גשר                      ",
+    "eng_name": "GESHER                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 336,
+    "name": "דאלית אל-כרמל            ",
+    "eng_name": "DALIYAT AL-KARMEL        ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 337,
+    "name": "דבורה                    ",
+    "eng_name": "DEVORA                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 339,
+    "name": "דבירה                    ",
+    "eng_name": "DEVIRA                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 338,
+    "name": "דבוריה                   ",
+    "eng_name": "DABBURYE                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 340,
+    "name": "דברת                     ",
+    "eng_name": "DAVERAT                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 334,
+    "name": "גת )קיבוץ(               ",
+    "eng_name": "GAT(QIBBUZ)              ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 342,
+    "name": "דגניה ב'                 ",
+    "eng_name": "DEGANYA BET              ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 341,
+    "name": "דגניה א'                 ",
+    "eng_name": "DEGANYA ALEF             ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 344,
+    "name": "דולב                     ",
+    "eng_name": "DOLEV                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 346,
+    "name": "דורות                    ",
+    "eng_name": "DOROT                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 345,
+    "name": "דור                      ",
+    "eng_name": "DOR                      ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 343,
+    "name": "דוב\"ב                    ",
+    "eng_name": "DOVEV                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 347,
+    "name": "דחי                      ",
+    "eng_name": "DAHI                     ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 350,
+    "name": "דייר ראפאת               ",
+    "eng_name": "DEIR RAFAT               ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 351,
+    "name": "דימונה                   ",
+    "eng_name": "DIMONA                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 352,
+    "name": "דישון                    ",
+    "eng_name": "DISHON                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 353,
+    "name": "דליה                     ",
+    "eng_name": "DALIYYA                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 348,
+    "name": "דייר אל-אסד              ",
+    "eng_name": "DEIR AL-ASAD             ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 354,
+    "name": "דלתון                    ",
+    "eng_name": "DALTON                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 356,
+    "name": "דן                       ",
+    "eng_name": "DAN                      ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 357,
+    "name": "דפנה                     ",
+    "eng_name": "DAFNA                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 358,
+    "name": "דקל                      ",
+    "eng_name": "DEQEL                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 355,
+    "name": "דמיידה                   ",
+    "eng_name": "DEMEIDE                  ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 361,
+    "name": "הבונים                   ",
+    "eng_name": "HABONIM                  ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 349,
+    "name": "דייר חנא                 ",
+    "eng_name": "DEIR HANNA               ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 360,
+    "name": "האון                     ",
+    "eng_name": "HAON                     ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 362,
+    "name": "הגושרים                  ",
+    "eng_name": "HAGOSHERIM               ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 363,
+    "name": "הדר עם                   ",
+    "eng_name": "HADAR AM                 ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 359,
+    "name": "דריג'את                  ",
+    "eng_name": "DERIG'AT                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 365,
+    "name": "הודיה                    ",
+    "eng_name": "HODIYYA                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 366,
+    "name": "הודיות                   ",
+    "eng_name": "HODAYOT                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 368,
+    "name": "הוזייל )שבט(             ",
+    "eng_name": "HUZAYYEL                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 364,
+    "name": "הוד השרון                ",
+    "eng_name": "HOD HASHARON             ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 369,
+    "name": "הושעיה                   ",
+    "eng_name": "HOSHA'AYA                ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 370,
+    "name": "הזורע                    ",
+    "eng_name": "HAZOREA                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 372,
+    "name": "החותרים                  ",
+    "eng_name": "HAHOTERIM                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 371,
+    "name": "הזורעים                  ",
+    "eng_name": "HAZORE'IM                ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 367,
+    "name": "הוואשלה )שבט(            ",
+    "eng_name": "HAWASHLA                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 373,
+    "name": "היוגב                    ",
+    "eng_name": "HAYOGEV                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 375,
+    "name": "המעפיל                   ",
+    "eng_name": "HAMA'PIL                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 376,
+    "name": "הסוללים                  ",
+    "eng_name": "HASOLELIM                ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 374,
+    "name": "הילה                     ",
+    "eng_name": "HILLA                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 377,
+    "name": "העוגן                    ",
+    "eng_name": "HAOGEN                   ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 379,
+    "name": "הר גילה                  ",
+    "eng_name": "HAR GILLO                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 381,
+    "name": "הראל                     ",
+    "eng_name": "HAR'EL                   ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 378,
+    "name": "הר אדר                   ",
+    "eng_name": "HAR ADAR                 ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 383,
+    "name": "הרצליה                   ",
+    "eng_name": "HERZELIYYA               ",
+    "lodge": "הרצליה                   "
+  },
+  {
+    "id": 382,
+    "name": "הרדוף                    ",
+    "eng_name": "HARDUF                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 385,
+    "name": "ורד יריחו                ",
+    "eng_name": "WERED YERIHO             ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 386,
+    "name": "ורדון                    ",
+    "eng_name": "WARDON                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 384,
+    "name": "הררית                    ",
+    "eng_name": "HARARIT                  ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 388,
+    "name": "זבדיאל                   ",
+    "eng_name": "ZAVDI'EL                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 389,
+    "name": "זוהר                     ",
+    "eng_name": "ZOHAR                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 380,
+    "name": "הר עמשא                  ",
+    "eng_name": "HAR AMASA                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 390,
+    "name": "זיקים                    ",
+    "eng_name": "ZIQIM                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 392,
+    "name": "זכרון יעקב               ",
+    "eng_name": "ZIKHRON YA'AQOV          ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 391,
+    "name": "זיתן                     ",
+    "eng_name": "ZETAN                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 393,
+    "name": "זכריה                    ",
+    "eng_name": "ZEKHARYA                 ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 387,
+    "name": "זבארגה )שבט(             ",
+    "eng_name": "ZABARGA                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 395,
+    "name": "זמרת                     ",
+    "eng_name": "ZIMRAT                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 396,
+    "name": "זנוח                     ",
+    "eng_name": "ZANOAH                   ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 394,
+    "name": "זמר                      ",
+    "eng_name": "ZEMER                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 398,
+    "name": "זרזיר                    ",
+    "eng_name": "ZARZIR                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 400,
+    "name": "ח'ואלד                   ",
+    "eng_name": "KHAWALED                 ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 397,
+    "name": "זרועה                    ",
+    "eng_name": "ZERU'A                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 401,
+    "name": "ח'ואלד )שבט(             ",
+    "eng_name": "KHAWALED                 ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 402,
+    "name": "חבצלת השרון              ",
+    "eng_name": "HAVAZZELET HASHARON      ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 399,
+    "name": "זרחיה                    ",
+    "eng_name": "ZERAHYA                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 404,
+    "name": "חברון                    ",
+    "eng_name": "                         ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 405,
+    "name": "חגור                     ",
+    "eng_name": "HAGOR                    ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 407,
+    "name": "חגלה                     ",
+    "eng_name": "HOGLA                    ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 403,
+    "name": "חבר                      ",
+    "eng_name": "HEVER                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 406,
+    "name": "חגי                      ",
+    "eng_name": "HAGGAI                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 410,
+    "name": "חדרה                     ",
+    "eng_name": "HADERA                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 411,
+    "name": "חוג'ייראת )ד'הרה(        ",
+    "eng_name": "HUJEIRAT (DAHRA)         ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 408,
+    "name": "חד-נס                    ",
+    "eng_name": "HAD-NES                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 409,
+    "name": "חדיד                     ",
+    "eng_name": "HADID                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 413,
+    "name": "חולון                    ",
+    "eng_name": "HOLON                    ",
+    "lodge": "חולון                    "
+  },
+  {
+    "id": 415,
+    "name": "חולתה                    ",
+    "eng_name": "HULATA                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 416,
+    "name": "חוסן                     ",
+    "eng_name": "HOSEN                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 414,
+    "name": "חולית                    ",
+    "eng_name": "HOLIT                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 412,
+    "name": "חולדה                    ",
+    "eng_name": "HULDA                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 418,
+    "name": "חופית                    ",
+    "eng_name": "HOFIT                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 419,
+    "name": "חוקוק                    ",
+    "eng_name": "HUQOQ                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 421,
+    "name": "חורפיש                   ",
+    "eng_name": "HURFEISH                 ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 420,
+    "name": "חורה                     ",
+    "eng_name": "HURA                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 417,
+    "name": "חוסנייה                  ",
+    "eng_name": "HUSSNIYYA                ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 423,
+    "name": "חזון                     ",
+    "eng_name": "HAZON                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 422,
+    "name": "חורשים                   ",
+    "eng_name": "HORESHIM                 ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 426,
+    "name": "חיפה                     ",
+    "eng_name": "HAIFA                    ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 427,
+    "name": "חירות                    ",
+    "eng_name": "HERUT                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 428,
+    "name": "חלוץ                     ",
+    "eng_name": "HALUZ                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 425,
+    "name": "חיננית                   ",
+    "eng_name": "HINNANIT                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 429,
+    "name": "חלמיש                    ",
+    "eng_name": "HALLAMISH                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 432,
+    "name": "חמד                      ",
+    "eng_name": "HEMED                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 433,
+    "name": "חמדיה                    ",
+    "eng_name": "HAMADYA                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 431,
+    "name": "חמאם                     ",
+    "eng_name": "HAMAM                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 424,
+    "name": "חיבת ציון                ",
+    "eng_name": "HIBBAT ZIYYON            ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 430,
+    "name": "חלץ                      ",
+    "eng_name": "HELEZ                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 435,
+    "name": "חמרה                     ",
+    "eng_name": "HAMRA                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 434,
+    "name": "חמדת                     ",
+    "eng_name": "NAHAL HEMDAT             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 437,
+    "name": "חניתה                    ",
+    "eng_name": "HANITA                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 436,
+    "name": "חניאל                    ",
+    "eng_name": "HANNI'EL                 ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 438,
+    "name": "חנתון                    ",
+    "eng_name": "HANNATON                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 440,
+    "name": "חפץ חיים                 ",
+    "eng_name": "HAFEZ HAYYIM             ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 443,
+    "name": "חצבה                     ",
+    "eng_name": "HAZEVA                   ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 444,
+    "name": "חצור הגלילית             ",
+    "eng_name": "HAZOR HAGELILIT          ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 441,
+    "name": "חפצי-בה                  ",
+    "eng_name": "HEFZI-BAH                ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 442,
+    "name": "חצב                      ",
+    "eng_name": "HAZAV                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 445,
+    "name": "חצור-אשדוד               ",
+    "eng_name": "HAZOR-ASHDOD             ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 446,
+    "name": "חצר בארותיים             ",
+    "eng_name": "HAZAR BE'EROTAYIM        ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 439,
+    "name": "חספין                    ",
+    "eng_name": "HASPIN                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 448,
+    "name": "חצרות יסף                ",
+    "eng_name": "HAZROT YASAF             ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 450,
+    "name": "חצרים                    ",
+    "eng_name": "HAZERIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 447,
+    "name": "חצרות חולדה              ",
+    "eng_name": "HAZROT HULDA             ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 452,
+    "name": "חרוצים                   ",
+    "eng_name": "HARUZIM                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 449,
+    "name": "חצרות כ\"ח                ",
+    "eng_name": "HAZROT KOAH              ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 454,
+    "name": "חרמש                     ",
+    "eng_name": "HERMESH                  ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 453,
+    "name": "חריש                     ",
+    "eng_name": "HARISH                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 451,
+    "name": "חרב לאת                  ",
+    "eng_name": "HEREV LE'ET              ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 456,
+    "name": "חשמונאים                 ",
+    "eng_name": "HASHMONA'IM              ",
+    "lodge": "מודיעין                  "
+  },
+  {
+    "id": 457,
+    "name": "טבריה                    ",
+    "eng_name": "TIBERIAS                 ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 455,
+    "name": "חרשים                    ",
+    "eng_name": "HARASHIM                 ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 458,
+    "name": "טובא-זנגריה              ",
+    "eng_name": "TUBA-ZANGARIYYE          ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 459,
+    "name": "טורעאן                   ",
+    "eng_name": "TUR'AN                   ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 461,
+    "name": "טייבה )בעמק(             ",
+    "eng_name": "TAYIBE(BAEMEQ)           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 463,
+    "name": "טירת יהודה               ",
+    "eng_name": "TIRAT YEHUDA             ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 465,
+    "name": "טירת צבי                 ",
+    "eng_name": "TIRAT ZEVI               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 466,
+    "name": "טל שחר                   ",
+    "eng_name": "TAL SHAHAR               ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 464,
+    "name": "טירת כרמל                ",
+    "eng_name": "TIRAT KARMEL             ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 467,
+    "name": "טל-אל                    ",
+    "eng_name": "TAL-EL                   ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 462,
+    "name": "טירה                     ",
+    "eng_name": "TIRE                     ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 460,
+    "name": "טייבה                    ",
+    "eng_name": "TAYIBE                   ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 469,
+    "name": "טלמון                    ",
+    "eng_name": "TALMON                   ",
+    "lodge": "מודיעין                  "
+  },
+  {
+    "id": 470,
+    "name": "טמרה                     ",
+    "eng_name": "TAMRA                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 471,
+    "name": "טמרה )יזרעאל(            ",
+    "eng_name": "TAMRA (YIZRE'EL)         ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 472,
+    "name": "טנא                      ",
+    "eng_name": "TENE                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 473,
+    "name": "טפחות                    ",
+    "eng_name": "TEFAHOT                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 468,
+    "name": "טללים                    ",
+    "eng_name": "TELALIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 477,
+    "name": "יבנה                     ",
+    "eng_name": "YAVNE                    ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 476,
+    "name": "יבנאל                    ",
+    "eng_name": "YAVNE'EL                 ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 474,
+    "name": "יאנוח-ג'ת                ",
+    "eng_name": "YANUH-JAT                ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 478,
+    "name": "יגור                     ",
+    "eng_name": "YAGUR                    ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 479,
+    "name": "יגל                      ",
+    "eng_name": "YAGEL                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 480,
+    "name": "יד בנימין                ",
+    "eng_name": "YAD BINYAMIN             ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 475,
+    "name": "יבול                     ",
+    "eng_name": "YEVUL                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 483,
+    "name": "יד מרדכי                 ",
+    "eng_name": "YAD MORDEKHAY            ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 481,
+    "name": "יד השמונה                ",
+    "eng_name": "YAD HASHEMONA            ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 486,
+    "name": "ידידה                    ",
+    "eng_name": "YEDIDA                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 482,
+    "name": "יד חנה                   ",
+    "eng_name": "YAD HANNA                ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 485,
+    "name": "יד רמב\"ם                 ",
+    "eng_name": "YAD RAMBAM               ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 487,
+    "name": "יהוד-מונוסון             ",
+    "eng_name": "YEHUD-MONOSON            ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 488,
+    "name": "יהל                      ",
+    "eng_name": "YAHEL                    ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 484,
+    "name": "יד נתן                   ",
+    "eng_name": "YAD NATAN                ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 489,
+    "name": "יובל                     ",
+    "eng_name": "YUVAL                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 490,
+    "name": "יובלים                   ",
+    "eng_name": "YUVALIM                  ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 491,
+    "name": "יודפת                    ",
+    "eng_name": "YODEFAT                  ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 493,
+    "name": "יושיביה                  ",
+    "eng_name": "YOSHIVYA                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 492,
+    "name": "יונתן                    ",
+    "eng_name": "YONATAN                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 495,
+    "name": "יחיעם                    ",
+    "eng_name": "YEHI'AM                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 496,
+    "name": "יטבתה                    ",
+    "eng_name": "YOTVATA                  ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 497,
+    "name": "ייט\"ב                    ",
+    "eng_name": "YITAV                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 499,
+    "name": "ינוב                     ",
+    "eng_name": "YANUV                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 494,
+    "name": "יזרעאל                   ",
+    "eng_name": "YIZRE'EL                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 498,
+    "name": "יכיני                    ",
+    "eng_name": "YAKHINI                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 500,
+    "name": "ינון                     ",
+    "eng_name": "YINNON                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 502,
+    "name": "יסודות                   ",
+    "eng_name": "YESODOT                  ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 503,
+    "name": "יסעור                    ",
+    "eng_name": "YAS'UR                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 505,
+    "name": "יעל                      ",
+    "eng_name": "YA'EL                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 506,
+    "name": "יעף                      ",
+    "eng_name": "YE'AF                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 507,
+    "name": "יערה                     ",
+    "eng_name": "YA'ARA                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 504,
+    "name": "יעד                      ",
+    "eng_name": "YA'AD                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 509,
+    "name": "יפית                     ",
+    "eng_name": "YAFIT                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 510,
+    "name": "יפעת                     ",
+    "eng_name": "YIF'AT                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 511,
+    "name": "יפתח                     ",
+    "eng_name": "YIFTAH                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 501,
+    "name": "יסוד המעלה               ",
+    "eng_name": "YESUD HAMA'ALA           ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 512,
+    "name": "יצהר                     ",
+    "eng_name": "YIZHAR                   ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 508,
+    "name": "יפיע                     ",
+    "eng_name": "YAFI                     ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 513,
+    "name": "יציץ                     ",
+    "eng_name": "YAZIZ                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 514,
+    "name": "יקום                     ",
+    "eng_name": "YAQUM                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 517,
+    "name": "יקנעם עילית              ",
+    "eng_name": "YOQNE'AM ILLIT           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 516,
+    "name": "יקנעם )מושבה(            ",
+    "eng_name": "YOQNE'AM(MOSHAVA)        ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 518,
+    "name": "יראון                    ",
+    "eng_name": "YIR'ON                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 520,
+    "name": "ירוחם                    ",
+    "eng_name": "YEROHAM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 515,
+    "name": "יקיר                     ",
+    "eng_name": "YAQIR                    ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 519,
+    "name": "ירדנה                    ",
+    "eng_name": "YARDENA                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 524,
+    "name": "ירקונה                   ",
+    "eng_name": "YARQONA                  ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 522,
+    "name": "ירחיב                    ",
+    "eng_name": "YARHIV                   ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 526,
+    "name": "ישעי                     ",
+    "eng_name": "YISH'I                   ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 521,
+    "name": "ירושלים                  ",
+    "eng_name": "JERUSALEM                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 525,
+    "name": "ישע                      ",
+    "eng_name": "YESHA                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 523,
+    "name": "ירכא                     ",
+    "eng_name": "YIRKA                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 527,
+    "name": "ישרש                     ",
+    "eng_name": "YASHRESH                 ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 528,
+    "name": "יתד                      ",
+    "eng_name": "YATED                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 530,
+    "name": "כאבול                    ",
+    "eng_name": "KABUL                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 529,
+    "name": "יתיר                     ",
+    "eng_name": "                         ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 532,
+    "name": "כברי                     ",
+    "eng_name": "KABRI                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 533,
+    "name": "כדורי                    ",
+    "eng_name": "KADOORIE                 ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 531,
+    "name": "כאוכב אבו אל-היג'א       ",
+    "eng_name": "KAOKAB ABU AL-HIJA       ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 534,
+    "name": "כדיתה                    ",
+    "eng_name": "KADDITA                  ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 535,
+    "name": "כוכב השחר                ",
+    "eng_name": "KOKHAV HASHAHAR          ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 536,
+    "name": "כוכב יאיר                ",
+    "eng_name": "KOKHAV YA'IR             ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 537,
+    "name": "כוכב יעקב                ",
+    "eng_name": "KOKHAV YA'AQOV           ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 539,
+    "name": "כורזים                   ",
+    "eng_name": "KORAZIM                  ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 538,
+    "name": "כוכב מיכאל               ",
+    "eng_name": "KOKHAV MIKHA'EL          ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 542,
+    "name": "כיסופים                  ",
+    "eng_name": "KISSUFIM                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 540,
+    "name": "כחל                      ",
+    "eng_name": "KAHAL                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 541,
+    "name": "כחלה                     ",
+    "eng_name": "KOCHLEA                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 544,
+    "name": "כליל                     ",
+    "eng_name": "KELIL                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 545,
+    "name": "כלנית                    ",
+    "eng_name": "KALLANIT                 ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 543,
+    "name": "כישור                    ",
+    "eng_name": "KISHOR                   ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 547,
+    "name": "כמהין                    ",
+    "eng_name": "KEMEHIN                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 549,
+    "name": "כנות                     ",
+    "eng_name": "KANNOT                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 550,
+    "name": "כנף                      ",
+    "eng_name": "KANAF                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 548,
+    "name": "כמון                     ",
+    "eng_name": "KAMMON                   ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 546,
+    "name": "כמאנה                    ",
+    "eng_name": "                         ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 551,
+    "name": "כנרת )מושבה(             ",
+    "eng_name": "KINNERET(MOSHAVA)        ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 552,
+    "name": "כנרת )קבוצה(             ",
+    "eng_name": "KINNERET(QEVUZA)         ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 553,
+    "name": "כסיפה                    ",
+    "eng_name": "KUSEIFE                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 554,
+    "name": "כסלון                    ",
+    "eng_name": "KESALON                  ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 555,
+    "name": "כסרא-סמיע                ",
+    "eng_name": "KISRA-SUMEI              ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 556,
+    "name": "כעביה-טבאש-חג'אג'רה      ",
+    "eng_name": "KA'ABIYYE-TABBASH-HA     ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 557,
+    "name": "כפר אביב                 ",
+    "eng_name": "KEFAR AVIV               ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 558,
+    "name": "כפר אדומים               ",
+    "eng_name": "KEFAR ADUMMIM            ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 560,
+    "name": "כפר אחים                 ",
+    "eng_name": "KEFAR AHIM               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 559,
+    "name": "כפר אוריה                ",
+    "eng_name": "KEFAR URIYYA             ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 562,
+    "name": "כפר ביל\"ו                ",
+    "eng_name": "KEFAR BILU               ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 561,
+    "name": "כפר ביאליק               ",
+    "eng_name": "KEFAR BIALIK             ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 563,
+    "name": "כפר בלום                 ",
+    "eng_name": "KEFAR BLUM               ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 565,
+    "name": "כפר ברא                  ",
+    "eng_name": "KAFAR BARA               ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 564,
+    "name": "כפר בן נון               ",
+    "eng_name": "KEFAR BIN NUN            ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 566,
+    "name": "כפר ברוך                 ",
+    "eng_name": "KEFAR BARUKH             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 567,
+    "name": "כפר גדעון                ",
+    "eng_name": "KEFAR GID'ON             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 568,
+    "name": "כפר גלים                 ",
+    "eng_name": "KEFAR GALLIM             ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 570,
+    "name": "כפר גלעדי                ",
+    "eng_name": "KEFAR GIL'ADI            ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 571,
+    "name": "כפר דניאל                ",
+    "eng_name": "KEFAR DANIYYEL           ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 572,
+    "name": "כפר האורנים              ",
+    "eng_name": "KEFAR HAORANIM           ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 573,
+    "name": "כפר החורש                ",
+    "eng_name": "KEFAR HAHORESH           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 569,
+    "name": "כפר גליקסון              ",
+    "eng_name": "KEFAR GLIKSON            ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 574,
+    "name": "כפר המכבי                ",
+    "eng_name": "KEFAR HAMAKKABI          ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 575,
+    "name": "כפר הנגיד                ",
+    "eng_name": "KEFAR HANAGID            ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 577,
+    "name": "כפר הנשיא                ",
+    "eng_name": "KEFAR HANASI             ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 578,
+    "name": "כפר הס                   ",
+    "eng_name": "KEFAR HESS               ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 576,
+    "name": "כפר הנוער הדתי           ",
+    "eng_name": "KEFAR HANO'AR HADATI     ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 579,
+    "name": "כפר הרא\"ה                ",
+    "eng_name": "KEFAR HARO'E             ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 581,
+    "name": "כפר ויתקין               ",
+    "eng_name": "KEFAR VITKIN             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 582,
+    "name": "כפר ורבורג               ",
+    "eng_name": "KEFAR WARBURG            ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 584,
+    "name": "כפר זוהרים               ",
+    "eng_name": "KEFAR ZOHARIM            ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 580,
+    "name": "כפר הרי\"ף                ",
+    "eng_name": "KEFAR HARIF              ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 585,
+    "name": "כפר זיתים                ",
+    "eng_name": "KEFAR ZETIM              ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 586,
+    "name": "כפר חב\"ד                 ",
+    "eng_name": "KEFAR HABAD              ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 583,
+    "name": "כפר ורדים                ",
+    "eng_name": "KEFAR WERADIM            ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 589,
+    "name": "כפר חיים                 ",
+    "eng_name": "KEFAR HAYYIM             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 588,
+    "name": "כפר חיטים                ",
+    "eng_name": "KEFAR HITTIM             ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 587,
+    "name": "כפר חושן                 ",
+    "eng_name": "KEFAR HOSHEN             ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 590,
+    "name": "כפר חנניה                ",
+    "eng_name": "KEFAR HANANYA            ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 594,
+    "name": "כפר טרומן                ",
+    "eng_name": "KEFAR TRUMAN             ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 592,
+    "name": "כפר חסידים ב'            ",
+    "eng_name": "KEFAR HASIDIM BET        ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 595,
+    "name": "כפר יאסיף                ",
+    "eng_name": "KAFAR YASIF              ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 591,
+    "name": "כפר חסידים א'            ",
+    "eng_name": "KEFAR HASIDIM ALEF       ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 596,
+    "name": "כפר ידידיה               ",
+    "eng_name": "YEDIDYA                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 597,
+    "name": "כפר יהושע                ",
+    "eng_name": "KEFAR YEHOSHUA           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 593,
+    "name": "כפר חרוב                 ",
+    "eng_name": "KEFAR HARUV              ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 599,
+    "name": "כפר יחזקאל               ",
+    "eng_name": "KEFAR YEHEZQEL           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 600,
+    "name": "כפר יעבץ                 ",
+    "eng_name": "KEFAR YA'BEZ             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 602,
+    "name": "כפר כנא                  ",
+    "eng_name": "KAFAR KANNA              ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 598,
+    "name": "כפר יונה                 ",
+    "eng_name": "KEFAR YONA               ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 603,
+    "name": "כפר מונש                 ",
+    "eng_name": "KEFAR MONASH             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 604,
+    "name": "כפר מימון                ",
+    "eng_name": "KEFAR MAYMON             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 601,
+    "name": "כפר כמא                  ",
+    "eng_name": "KAFAR KAMA               ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 606,
+    "name": "כפר מנדא                 ",
+    "eng_name": "KAFAR MANDA              ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 607,
+    "name": "כפר מנחם                 ",
+    "eng_name": "KEFAR MENAHEM            ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 605,
+    "name": "כפר מל\"ל                 ",
+    "eng_name": "KEFAR MALAL              ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 610,
+    "name": "כפר מרדכי                ",
+    "eng_name": "KEFAR MORDEKHAY          ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 609,
+    "name": "כפר מצר                  ",
+    "eng_name": "KAFAR MISR               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 612,
+    "name": "כפר סאלד                 ",
+    "eng_name": "KEFAR SZOLD              ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 608,
+    "name": "כפר מסריק                ",
+    "eng_name": "KEFAR MASARYK            ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 611,
+    "name": "כפר נטר                  ",
+    "eng_name": "KEFAR NETTER             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 614,
+    "name": "כפר סילבר                ",
+    "eng_name": "KEFAR SILVER             ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 615,
+    "name": "כפר סירקין               ",
+    "eng_name": "KEFAR SIRKIN             ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 613,
+    "name": "כפר סבא                  ",
+    "eng_name": "KEFAR SAVA               ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 616,
+    "name": "כפר עבודה                ",
+    "eng_name": "KEFAR AVODA              ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 618,
+    "name": "כפר עציון                ",
+    "eng_name": "KEFAR EZYON              ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 617,
+    "name": "כפר עזה                  ",
+    "eng_name": "KEFAR AZZA               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 621,
+    "name": "כפר קיש                  ",
+    "eng_name": "KEFAR KISH               ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 620,
+    "name": "כפר קאסם                 ",
+    "eng_name": "KAFAR QASEM              ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 619,
+    "name": "כפר פינס                 ",
+    "eng_name": "KEFAR PINES              ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 623,
+    "name": "כפר ראש הנקרה            ",
+    "eng_name": "KEFAR ROSH HANIQRA       ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 624,
+    "name": "כפר רוזנואלד )זרעית(     ",
+    "eng_name": "KEFAR ROZENWALD(ZAR.     ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 625,
+    "name": "כפר רופין                ",
+    "eng_name": "KEFAR RUPPIN             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 626,
+    "name": "כפר רות                  ",
+    "eng_name": "KEFAR RUT                ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 622,
+    "name": "כפר קרע                  ",
+    "eng_name": "KAFAR QARA               ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 627,
+    "name": "כפר שמאי                 ",
+    "eng_name": "KEFAR SHAMMAY            ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 628,
+    "name": "כפר שמואל                ",
+    "eng_name": "KEFAR SHEMU'EL           ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 630,
+    "name": "כפר תבור                 ",
+    "eng_name": "KEFAR TAVOR              ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 629,
+    "name": "כפר שמריהו               ",
+    "eng_name": "KEFAR SHEMARYAHU         ",
+    "lodge": "הרצליה                   "
+  },
+  {
+    "id": 631,
+    "name": "כפר תפוח                 ",
+    "eng_name": "KEFAR TAPPUAH            ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 633,
+    "name": "כרכום                    ",
+    "eng_name": "KARKOM                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 634,
+    "name": "כרם בן זמרה              ",
+    "eng_name": "KEREM BEN ZIMRA          ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 635,
+    "name": "כרם בן שמן               ",
+    "eng_name": "KEREM BEN SHEMEN         ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 636,
+    "name": "כרם יבנה )ישיבה(         ",
+    "eng_name": "KEREM YAVNE(YESHIVA)     ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 637,
+    "name": "כרם מהר\"ל                ",
+    "eng_name": "KEREM MAHARAL            ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 639,
+    "name": "כרמי יוסף                ",
+    "eng_name": "KARME YOSEF              ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 638,
+    "name": "כרם שלום                 ",
+    "eng_name": "KEREM SHALOM             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 640,
+    "name": "כרמי צור                 ",
+    "eng_name": "KARME ZUR                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 632,
+    "name": "כרי דשא                  ",
+    "eng_name": "KARE DESHE               ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 641,
+    "name": "כרמי קטיף                ",
+    "eng_name": "KARME QATIF              ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 643,
+    "name": "כרמיה                    ",
+    "eng_name": "KARMIYYA                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 644,
+    "name": "כרמים                    ",
+    "eng_name": "KERAMIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 642,
+    "name": "כרמיאל                   ",
+    "eng_name": "KARMI'EL                 ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 645,
+    "name": "כרמל                     ",
+    "eng_name": "KARMEL                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 648,
+    "name": "לביא                     ",
+    "eng_name": "LAVI                     ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 646,
+    "name": "לא רשום                  ",
+    "eng_name": "                         ",
+    "lodge": "                         "
+  },
+  {
+    "id": 647,
+    "name": "לבון                     ",
+    "eng_name": "LAVON                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 650,
+    "name": "להב                      ",
+    "eng_name": "LAHAV                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 651,
+    "name": "להבות הבשן               ",
+    "eng_name": "LAHAVOT HABASHAN         ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 649,
+    "name": "לבנים                    ",
+    "eng_name": "LIVNIM                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 654,
+    "name": "לוד                      ",
+    "eng_name": "LOD                      ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 652,
+    "name": "להבות חביבה              ",
+    "eng_name": "LAHAVOT HAVIVA           ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 655,
+    "name": "לוזית                    ",
+    "eng_name": "LUZIT                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 656,
+    "name": "לוחמי הגיטאות            ",
+    "eng_name": "LOHAME HAGETA'OT         ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 657,
+    "name": "לוטם                     ",
+    "eng_name": "LOTEM                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 658,
+    "name": "לוטן                     ",
+    "eng_name": "LOTAN                    ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 653,
+    "name": "להבים                    ",
+    "eng_name": "LEHAVIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 659,
+    "name": "לימן                     ",
+    "eng_name": "LIMAN                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 660,
+    "name": "לכיש                     ",
+    "eng_name": "LAKHISH                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 661,
+    "name": "לפיד                     ",
+    "eng_name": "LAPPID                   ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 664,
+    "name": "מאור                     ",
+    "eng_name": "MA'OR                    ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 662,
+    "name": "לפידות                   ",
+    "eng_name": "LAPPIDOT                 ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 666,
+    "name": "מבוא ביתר                ",
+    "eng_name": "MEVO BETAR               ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 665,
+    "name": "מאיר שפיה                ",
+    "eng_name": "ME'IR SHEFEYA            ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 667,
+    "name": "מבוא דותן                ",
+    "eng_name": "MEVO DOTAN               ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 668,
+    "name": "מבוא חורון               ",
+    "eng_name": "MEVO HORON               ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 670,
+    "name": "מבוא מודיעים             ",
+    "eng_name": "MEVO MODI'IM             ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 663,
+    "name": "לקיה                     ",
+    "eng_name": "LAQYE                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 669,
+    "name": "מבוא חמה                 ",
+    "eng_name": "MEVO HAMMA               ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 671,
+    "name": "מבואות ים                ",
+    "eng_name": "MEVO'OT YAM              ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 672,
+    "name": "מבועים                   ",
+    "eng_name": "MABBU'IM                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 674,
+    "name": "מבקיעים                  ",
+    "eng_name": "MAVQI'IM                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 675,
+    "name": "מבשרת ציון               ",
+    "eng_name": "MEVASSERET ZIYYON        ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 673,
+    "name": "מבטחים                   ",
+    "eng_name": "MIVTAHIM                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 678,
+    "name": "מגאר                     ",
+    "eng_name": "MUGHAR                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 677,
+    "name": "מג'דל שמס                ",
+    "eng_name": "MAJDAL SHAMS             ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 679,
+    "name": "מגדים                    ",
+    "eng_name": "MEGADIM                  ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 680,
+    "name": "מגדל                     ",
+    "eng_name": "MIGDAL                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 676,
+    "name": "מג'ד אל-כרום             ",
+    "eng_name": "MAJD AL-KURUM            ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 681,
+    "name": "מגדל העמק                ",
+    "eng_name": "MIGDAL HAEMEQ            ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 683,
+    "name": "מגדלים                   ",
+    "eng_name": "MIGDALIM                 ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 682,
+    "name": "מגדל עוז                 ",
+    "eng_name": "MIGDAL OZ                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 685,
+    "name": "מגל                      ",
+    "eng_name": "MAGGAL                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 686,
+    "name": "מגן                      ",
+    "eng_name": "MAGEN                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 687,
+    "name": "מגן שאול                 ",
+    "eng_name": "MAGEN SHA'UL             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 688,
+    "name": "מגשימים                  ",
+    "eng_name": "MAGSHIMIM                ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 690,
+    "name": "מדרשת בן גוריון          ",
+    "eng_name": "MIDRESHET BEN GURION     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 684,
+    "name": "מגידו                    ",
+    "eng_name": "MEGIDDO                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 689,
+    "name": "מדרך עוז                 ",
+    "eng_name": "MIDRAKH OZ               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 691,
+    "name": "מדרשת רופין              ",
+    "eng_name": "MIDRESHET RUPPIN         ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 692,
+    "name": "מודיעין עילית            ",
+    "eng_name": "MODI'IN ILLIT            ",
+    "lodge": "מודיעין                  "
+  },
+  {
+    "id": 694,
+    "name": "מולדת                    ",
+    "eng_name": "MOLEDET                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 696,
+    "name": "מוקייבלה                 ",
+    "eng_name": "MUQEIBLE                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 695,
+    "name": "מוצא עילית               ",
+    "eng_name": "MOZA ILLIT               ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 693,
+    "name": "מודיעין-מכבים-רעות       ",
+    "eng_name": "MODI'IN-MAKKABBIM-RE     ",
+    "lodge": "מודיעין                     "
+  },
+  {
+    "id": 697,
+    "name": "מורן                     ",
+    "eng_name": "MORAN                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 698,
+    "name": "מורשת                    ",
+    "eng_name": "MORESHET                 ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 701,
+    "name": "מזרע                     ",
+    "eng_name": "MIZRA                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 699,
+    "name": "מזור                     ",
+    "eng_name": "MAZOR                    ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 700,
+    "name": "מזכרת בתיה               ",
+    "eng_name": "MAZKERET BATYA           ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 703,
+    "name": "מחולה                    ",
+    "eng_name": "MEHOLA                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 702,
+    "name": "מזרעה                    ",
+    "eng_name": "MAZRA'A                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 706,
+    "name": "מחנה יהודית              ",
+    "eng_name": "MAHANE YEHUDIT           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 705,
+    "name": "מחנה טלי                 ",
+    "eng_name": "MAHANE TALI              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 704,
+    "name": "מחנה הילה                ",
+    "eng_name": "MAHANE HILLA             ",
+    "lodge": "ראשון לציון              "
+  },
+  {
+    "id": 708,
+    "name": "מחנה יפה                 ",
+    "eng_name": "MAHANE YAFA              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 707,
+    "name": "מחנה יוכבד               ",
+    "eng_name": "MAHANE YOKHVED           ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 709,
+    "name": "מחנה יתיר                ",
+    "eng_name": "MAHANE YATTIR            ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 710,
+    "name": "מחנה מרים                ",
+    "eng_name": "MAHANE MIRYAM            ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 713,
+    "name": "מחסיה                    ",
+    "eng_name": "MAHSEYA                  ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 712,
+    "name": "מחניים                   ",
+    "eng_name": "MAHANAYIM                ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 714,
+    "name": "מטולה                    ",
+    "eng_name": "METULA                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 711,
+    "name": "מחנה תל נוף              ",
+    "eng_name": "MAHANE TEL NOF           ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 715,
+    "name": "מטע                      ",
+    "eng_name": "MATTA                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 716,
+    "name": "מי עמי                   ",
+    "eng_name": "ME AMMI                  ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 717,
+    "name": "מיטב                     ",
+    "eng_name": "METAV                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 720,
+    "name": "מירב                     ",
+    "eng_name": "MERAV                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 718,
+    "name": "מייסר                    ",
+    "eng_name": "MEISER                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 719,
+    "name": "מיצר                     ",
+    "eng_name": "MEZAR                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 722,
+    "name": "מישר                     ",
+    "eng_name": "MESHAR                   ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 721,
+    "name": "מירון                    ",
+    "eng_name": "MERON                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 725,
+    "name": "מכחול                    ",
+    "eng_name": "MAKCHUL                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 724,
+    "name": "מכורה                    ",
+    "eng_name": "MEKHORA                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 723,
+    "name": "מיתר                     ",
+    "eng_name": "METAR                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 726,
+    "name": "מכמורת                   ",
+    "eng_name": "MIKHMORET                ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 727,
+    "name": "מכמנים                   ",
+    "eng_name": "MIKHMANNIM               ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 728,
+    "name": "מלאה                     ",
+    "eng_name": "MELE'A                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 730,
+    "name": "מלכיה                    ",
+    "eng_name": "MALKIYYA                 ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 731,
+    "name": "מלכישוע                  ",
+    "eng_name": "MALKISHUA                ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 732,
+    "name": "מנוחה                    ",
+    "eng_name": "MENUHA                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 729,
+    "name": "מלילות                   ",
+    "eng_name": "MELILOT                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 733,
+    "name": "מנוף                     ",
+    "eng_name": "MANOF                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 734,
+    "name": "מנות                     ",
+    "eng_name": "MANOT                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 735,
+    "name": "מנחמיה                   ",
+    "eng_name": "MENAHEMYA                ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 738,
+    "name": "מסד                      ",
+    "eng_name": "MASSAD                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 737,
+    "name": "מנשית זבדה               ",
+    "eng_name": "MANSHIYYET ZABDA         ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 736,
+    "name": "מנרה                     ",
+    "eng_name": "MENNARA                  ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 740,
+    "name": "מסילות                   ",
+    "eng_name": "MESILLOT                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 741,
+    "name": "מסילת ציון               ",
+    "eng_name": "MESILLAT ZIYYON          ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 739,
+    "name": "מסדה                     ",
+    "eng_name": "MASSADA                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 743,
+    "name": "מסעדה                    ",
+    "eng_name": "MAS'ADE                  ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 742,
+    "name": "מסלול                    ",
+    "eng_name": "MASLUL                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 746,
+    "name": "מעגלים                   ",
+    "eng_name": "MA'GALIM                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 745,
+    "name": "מעברות                   ",
+    "eng_name": "MA'BAROT                 ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 744,
+    "name": "מסעודין אל-עזאזמה        ",
+    "eng_name": "MAS'UDIN AL-'AZAZME      ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 747,
+    "name": "מעגן                     ",
+    "eng_name": "MA'AGAN                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 748,
+    "name": "מעגן מיכאל               ",
+    "eng_name": "MA'AGAN MIKHA'EL         ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 749,
+    "name": "מעוז חיים                ",
+    "eng_name": "MA'OZ HAYYIM             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 750,
+    "name": "מעון                     ",
+    "eng_name": "MA'ON                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 751,
+    "name": "מעונה                    ",
+    "eng_name": "ME'ONA                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 753,
+    "name": "מעין ברוך                ",
+    "eng_name": "MA'YAN BARUKH            ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 752,
+    "name": "מעיליא                   ",
+    "eng_name": "MI'ELYA                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 754,
+    "name": "מעין צבי                 ",
+    "eng_name": "MA'YAN ZEVI              ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 756,
+    "name": "מעלה אפרים               ",
+    "eng_name": "MA'ALE EFRAYIM           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 755,
+    "name": "מעלה אדומים              ",
+    "eng_name": "MA'ALE ADUMMIM           ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 757,
+    "name": "מעלה גלבוע               ",
+    "eng_name": "MA'ALE GILBOA            ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 761,
+    "name": "מעלה מכמש                ",
+    "eng_name": "MA'ALE MIKHMAS           ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 760,
+    "name": "מעלה לבונה               ",
+    "eng_name": "MA'ALE LEVONA            ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 763,
+    "name": "מעלה עמוס                ",
+    "eng_name": "MA'ALE AMOS              ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 759,
+    "name": "מעלה החמישה              ",
+    "eng_name": "MA'ALE HAHAMISHA         ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 758,
+    "name": "מעלה גמלא                ",
+    "eng_name": "MA'ALE GAMLA             ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 764,
+    "name": "מעלה שומרון              ",
+    "eng_name": "MA'ALE SHOMERON          ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 766,
+    "name": "מענית                    ",
+    "eng_name": "MA'ANIT                  ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 762,
+    "name": "מעלה עירון               ",
+    "eng_name": "MA'ALE IRON              ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 765,
+    "name": "מעלות-תרשיחא             ",
+    "eng_name": "MA'ALOT-TARSHIHA         ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 768,
+    "name": "מפלסים                   ",
+    "eng_name": "MEFALLESIM               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 769,
+    "name": "מצדות יהודה              ",
+    "eng_name": "MEZADOT YEHUDA           ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 770,
+    "name": "מצובה                    ",
+    "eng_name": "MAZZUVA                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 767,
+    "name": "מעש                      ",
+    "eng_name": "MA'AS                    ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 772,
+    "name": "מצפה                     ",
+    "eng_name": "MIZPA                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 773,
+    "name": "מצפה אבי\"ב               ",
+    "eng_name": "MIZPE AVIV               ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 774,
+    "name": "מצפה אילן                ",
+    "eng_name": "MITSPE ILAN              ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 775,
+    "name": "מצפה יריחו               ",
+    "eng_name": "MIZPE YERIHO             ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 771,
+    "name": "מצליח                    ",
+    "eng_name": "MAZLIAH                  ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 776,
+    "name": "מצפה נטופה               ",
+    "eng_name": "MIZPE NETOFA             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 778,
+    "name": "מצפה שלם                 ",
+    "eng_name": "MIZPE SHALEM             ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 779,
+    "name": "מצר                      ",
+    "eng_name": "MEZER                    ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 780,
+    "name": "מקווה ישראל              ",
+    "eng_name": "MIQWE YISRA'EL           ",
+    "lodge": "חולון                    "
+  },
+  {
+    "id": 781,
+    "name": "מרגליות                  ",
+    "eng_name": "MARGALIYYOT              ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 783,
+    "name": "מרחב עם                  ",
+    "eng_name": "MERHAV AM                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 784,
+    "name": "מרחביה )מושב(            ",
+    "eng_name": "MERHAVYA(MOSHAV)         ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 785,
+    "name": "מרחביה )קיבוץ(           ",
+    "eng_name": "MERHAVYA(QIBBUZ)         ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 786,
+    "name": "מרכז שפירא               ",
+    "eng_name": "MERKAZ SHAPPIRA          ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 787,
+    "name": "משאבי שדה                ",
+    "eng_name": "MASH'ABBE SADE           ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 782,
+    "name": "מרום גולן                ",
+    "eng_name": "MEROM GOLAN              ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 789,
+    "name": "משגב עם                  ",
+    "eng_name": "MISGAV AM                ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 788,
+    "name": "משגב דב                  ",
+    "eng_name": "MISGAV DOV               ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 777,
+    "name": "מצפה רמון                ",
+    "eng_name": "MIZPE RAMON              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 791,
+    "name": "משואה                    ",
+    "eng_name": "MASSU'A                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 792,
+    "name": "משואות יצחק              ",
+    "eng_name": "MASSUOT YIZHAQ           ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 793,
+    "name": "משכיות                   ",
+    "eng_name": "MASKIYYOT                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 790,
+    "name": "משהד                     ",
+    "eng_name": "MESHHED                  ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 794,
+    "name": "משמר איילון              ",
+    "eng_name": "MISHMAR AYYALON          ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 795,
+    "name": "משמר דוד                 ",
+    "eng_name": "MISHMAR DAWID            ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 797,
+    "name": "משמר הנגב                ",
+    "eng_name": "MISHMAR HANEGEV          ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 796,
+    "name": "משמר הירדן               ",
+    "eng_name": "MISHMAR HAYARDEN         ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 800,
+    "name": "משמר השרון               ",
+    "eng_name": "MISHMAR HASHARON         ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 799,
+    "name": "משמר השבעה               ",
+    "eng_name": "MISHMAR HASHIV'A         ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 798,
+    "name": "משמר העמק                ",
+    "eng_name": "MISHMAR HAEMEQ           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 802,
+    "name": "משמרת                    ",
+    "eng_name": "MISHMERET                ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 803,
+    "name": "משען                     ",
+    "eng_name": "MASH'EN                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 804,
+    "name": "מתן                      ",
+    "eng_name": "MATTAN                   ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 806,
+    "name": "מתתיהו                   ",
+    "eng_name": "MATTITYAHU               ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 850,
+    "name": "נחף                      ",
+    "eng_name": "NAHEF                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 808,
+    "name": "נאות הכיכר               ",
+    "eng_name": "NE'OT HAKIKKAR           ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 801,
+    "name": "משמרות                   ",
+    "eng_name": "MISHMAROT                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 809,
+    "name": "נאות מרדכי               ",
+    "eng_name": "NE'OT MORDEKHAY          ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 805,
+    "name": "מתת                      ",
+    "eng_name": "MATTAT                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 807,
+    "name": "נאות גולן                ",
+    "eng_name": "NE'OT GOLAN              ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 810,
+    "name": "נאות סמדר                ",
+    "eng_name": "SHIZZAFON                ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 812,
+    "name": "נבטים                    ",
+    "eng_name": "NEVATIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 811,
+    "name": "נאעורה                   ",
+    "eng_name": "NA'URA                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 814,
+    "name": "נגוהות                   ",
+    "eng_name": "NEGOHOT                  ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 816,
+    "name": "נהלל                     ",
+    "eng_name": "NAHALAL                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 813,
+    "name": "נגבה                     ",
+    "eng_name": "NEGBA                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 815,
+    "name": "נהורה                    ",
+    "eng_name": "NEHORA                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 818,
+    "name": "נוב                      ",
+    "eng_name": "NOV                      ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 819,
+    "name": "נוגה                     ",
+    "eng_name": "NOGAH                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 820,
+    "name": "נווה                     ",
+    "eng_name": "NAVE                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 822,
+    "name": "נווה אור                 ",
+    "eng_name": "NEWE UR                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 817,
+    "name": "נהריה                    ",
+    "eng_name": "NAHARIYYA                ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 821,
+    "name": "נווה אבות                ",
+    "eng_name": "NEWE AVOT                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 823,
+    "name": "נווה אטי\"ב               ",
+    "eng_name": "NEWE ATIV                ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 826,
+    "name": "נווה דניאל               ",
+    "eng_name": "NEWE DANIYYEL            ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 825,
+    "name": "נווה איתן                ",
+    "eng_name": "NEWE ETAN                ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 827,
+    "name": "נווה זוהר                ",
+    "eng_name": "NEWE ZOHAR               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 828,
+    "name": "נווה זיו                 ",
+    "eng_name": "NEWE ZIV                 ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 824,
+    "name": "נווה אילן                ",
+    "eng_name": "NEWE ILAN                ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 831,
+    "name": "נווה ימין                ",
+    "eng_name": "NEWE YAMIN               ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 829,
+    "name": "נווה חריף                ",
+    "eng_name": "NEWE HARIF               ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 830,
+    "name": "נווה ים                  ",
+    "eng_name": "NEWE YAM                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 833,
+    "name": "נווה מבטח                ",
+    "eng_name": "NEWE MIVTAH              ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 832,
+    "name": "נווה ירק                 ",
+    "eng_name": "NEWE YARAQ               ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 834,
+    "name": "נווה מיכאל               ",
+    "eng_name": "NEWE MIKHA'EL            ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 836,
+    "name": "נועם                     ",
+    "eng_name": "NO'AM                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 835,
+    "name": "נווה שלום                ",
+    "eng_name": "NEWE SHALOM              ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 837,
+    "name": "נוף איילון               ",
+    "eng_name": "NOF AYYALON              ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 839,
+    "name": "נופית                    ",
+    "eng_name": "NOFIT                    ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 840,
+    "name": "נופך                     ",
+    "eng_name": "NOFEKH                   ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 842,
+    "name": "נורדיה                   ",
+    "eng_name": "NORDIYYA                 ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 838,
+    "name": "נופים                    ",
+    "eng_name": "NOFIM                    ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 841,
+    "name": "נוקדים                   ",
+    "eng_name": "NOQEDIM                  ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 844,
+    "name": "נחושה                    ",
+    "eng_name": "NEHUSHA                  ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 846,
+    "name": "נחלה                     ",
+    "eng_name": "NAHALA                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 843,
+    "name": "נורית                    ",
+    "eng_name": "NURIT                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 847,
+    "name": "נחליאל                   ",
+    "eng_name": "NAHALI'EL                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 848,
+    "name": "נחלים                    ",
+    "eng_name": "NEHALIM                  ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 851,
+    "name": "נחשולים                  ",
+    "eng_name": "NAHSHOLIM                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 849,
+    "name": "נחם                      ",
+    "eng_name": "NAHAM                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 852,
+    "name": "נחשון                    ",
+    "eng_name": "NAHSHON                  ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 853,
+    "name": "נחשונים                  ",
+    "eng_name": "NAHSHONIM                ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 845,
+    "name": "נחל עוז                  ",
+    "eng_name": "NAHAL OZ                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 855,
+    "name": "נטור                     ",
+    "eng_name": "NATUR                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 854,
+    "name": "נטועה                    ",
+    "eng_name": "NETU'A                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 857,
+    "name": "נטעים                    ",
+    "eng_name": "NETA'IM                  ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 859,
+    "name": "ניין                     ",
+    "eng_name": "NEIN                     ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 858,
+    "name": "נטף                      ",
+    "eng_name": "NATAF                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 856,
+    "name": "נטע                      ",
+    "eng_name": "NETA                     ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 861,
+    "name": "ניצן                     ",
+    "eng_name": "NIZZAN                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 860,
+    "name": "ניל\"י                    ",
+    "eng_name": "NILI                     ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 864,
+    "name": "ניצני סיני               ",
+    "eng_name": "NIZZANE SINAY            ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 863,
+    "name": "ניצנה )קהילת חינוך(      ",
+    "eng_name": "NIZZANA (QEHILAT HIN     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 866,
+    "name": "ניצנים                   ",
+    "eng_name": "NIZZANIM                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 862,
+    "name": "ניצן ב'                  ",
+    "eng_name": "NIZZAN B                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 867,
+    "name": "ניר אליהו                ",
+    "eng_name": "NIR ELIYYAHU             ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 868,
+    "name": "ניר בנים                 ",
+    "eng_name": "NIR BANIM                ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 869,
+    "name": "ניר גלים                 ",
+    "eng_name": "NIR GALLIM               ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 870,
+    "name": "ניר דוד )תל עמל(         ",
+    "eng_name": "NIR DAWID (TEL AMAL)     ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 871,
+    "name": "ניר ח\"ן                  ",
+    "eng_name": "NIR HEN                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 865,
+    "name": "ניצני עוז                ",
+    "eng_name": "NIZZANE OZ               ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 874,
+    "name": "ניר ישראל                ",
+    "eng_name": "NIR YISRA'EL             ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 873,
+    "name": "ניר יצחק                 ",
+    "eng_name": "NIR YIZHAQ               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 872,
+    "name": "ניר יפה                  ",
+    "eng_name": "NIR YAFE                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 875,
+    "name": "ניר משה                  ",
+    "eng_name": "NIR MOSHE                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 877,
+    "name": "ניר עם                   ",
+    "eng_name": "NIR AM                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 878,
+    "name": "ניר עציון                ",
+    "eng_name": "NIR EZYON                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 879,
+    "name": "ניר עקיבא                ",
+    "eng_name": "NIR AQIVA                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 881,
+    "name": "נירים                    ",
+    "eng_name": "NIRIM                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 880,
+    "name": "ניר צבי                  ",
+    "eng_name": "NIR ZEVI                 ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 876,
+    "name": "ניר עוז                  ",
+    "eng_name": "NIR OZ                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 883,
+    "name": "נירן                     ",
+    "eng_name": "NIRAN                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 882,
+    "name": "נירית                    ",
+    "eng_name": "NIRIT                    ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 884,
+    "name": "נמרוד                    ",
+    "eng_name": "NIMROD                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 886,
+    "name": "נס עמים                  ",
+    "eng_name": "NES AMMIM                ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 885,
+    "name": "נס הרים                  ",
+    "eng_name": "NES HARIM                ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 889,
+    "name": "נעלה                     ",
+    "eng_name": "NA'ALE                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 890,
+    "name": "נעמ\"ה                    ",
+    "eng_name": "NAAMA                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 887,
+    "name": "נס ציונה                 ",
+    "eng_name": "NES ZIYYONA              ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 888,
+    "name": "נעורים                   ",
+    "eng_name": "NE'URIM                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 891,
+    "name": "נען                      ",
+    "eng_name": "NA'AN                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 893,
+    "name": "נצר חזני                 ",
+    "eng_name": "NEZER HAZZANI            ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 892,
+    "name": "נצאצרה )שבט(             ",
+    "eng_name": "NASASRA                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 894,
+    "name": "נצר סרני                 ",
+    "eng_name": "NEZER SERENI             ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 896,
+    "name": "נצרת עילית               ",
+    "eng_name": "NAZERAT ILLIT            ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 897,
+    "name": "נשר                      ",
+    "eng_name": "NESHER                   ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 895,
+    "name": "נצרת                     ",
+    "eng_name": "NAZARETH                 ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 899,
+    "name": "נתיב הל\"ה                ",
+    "eng_name": "NETIV HALAMED-HE         ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 898,
+    "name": "נתיב הגדוד               ",
+    "eng_name": "NETIV HAGEDUD            ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 900,
+    "name": "נתיב העשרה               ",
+    "eng_name": "NETIV HAASARA            ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 903,
+    "name": "נתניה                    ",
+    "eng_name": "NETANYA                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 902,
+    "name": "נתיבות                   ",
+    "eng_name": "NETIVOT                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 901,
+    "name": "נתיב השיירה              ",
+    "eng_name": "NETIV HASHAYYARA         ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 905,
+    "name": "סאסא                     ",
+    "eng_name": "SASA                     ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 904,
+    "name": "סאג'ור                   ",
+    "eng_name": "SAJUR                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 906,
+    "name": "סביון                    ",
+    "eng_name": "SAVYON                   ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 908,
+    "name": "סואעד )חמרייה(           ",
+    "eng_name": "SAWA'ID(HAMRIYYE)        ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 910,
+    "name": "סולם                     ",
+    "eng_name": "SULAM                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 907,
+    "name": "סגולה                    ",
+    "eng_name": "SEGULA                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 911,
+    "name": "סוסיה                    ",
+    "eng_name": "SUSEYA                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 912,
+    "name": "סופה                     ",
+    "eng_name": "SUFA                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 915,
+    "name": "סלמה                     ",
+    "eng_name": "SALLAMA                  ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 914,
+    "name": "סייד )שבט(               ",
+    "eng_name": "SAYYID                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 917,
+    "name": "סמר                      ",
+    "eng_name": "SAMAR                    ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 918,
+    "name": "סנסנה                    ",
+    "eng_name": "                         ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 909,
+    "name": "סואעד )כמאנה( )שבט(      ",
+    "eng_name": "SAWA'ID (KAMANE)         ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 916,
+    "name": "סלעית                    ",
+    "eng_name": "SAL'IT                   ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 919,
+    "name": "סעד                      ",
+    "eng_name": "SA'AD                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 920,
+    "name": "סעוה                     ",
+    "eng_name": "SA'WA                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 922,
+    "name": "ספיר                     ",
+    "eng_name": "SAPPIR                   ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 921,
+    "name": "סער                      ",
+    "eng_name": "SA'AR                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 923,
+    "name": "סתריה                    ",
+    "eng_name": "SITRIYYA                 ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 925,
+    "name": "עבדון                    ",
+    "eng_name": "AVDON                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 924,
+    "name": "ע'ג'ר                    ",
+    "eng_name": "GHAJAR                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 926,
+    "name": "עברון                    ",
+    "eng_name": "EVRON                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 928,
+    "name": "עדי                      ",
+    "eng_name": "ADI                      ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 927,
+    "name": "עגור                     ",
+    "eng_name": "AGUR                     ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 931,
+    "name": "עוזייר                   ",
+    "eng_name": "UZEIR                    ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 929,
+    "name": "עדנים                    ",
+    "eng_name": "ADANIM                   ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 932,
+    "name": "עולש                     ",
+    "eng_name": "OLESH                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 934,
+    "name": "עופר                     ",
+    "eng_name": "OFER                     ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 930,
+    "name": "עוזה                     ",
+    "eng_name": "UZA                      ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 935,
+    "name": "עופרה                    ",
+    "eng_name": "OFRA                     ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 936,
+    "name": "עוצם                     ",
+    "eng_name": "OZEM                     ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 933,
+    "name": "עומר                     ",
+    "eng_name": "OMER                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 938,
+    "name": "עזוז                     ",
+    "eng_name": "EZUZ                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 939,
+    "name": "עזר                      ",
+    "eng_name": "EZER                     ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 937,
+    "name": "עוקבי )בנו עוקבה(        ",
+    "eng_name": "UQBI (BANU UQBA)         ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 940,
+    "name": "עזריאל                   ",
+    "eng_name": "AZRI'EL                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 942,
+    "name": "עזריקם                   ",
+    "eng_name": "AZRIQAM                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 941,
+    "name": "עזריה                    ",
+    "eng_name": "AZARYA                   ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 943,
+    "name": "עטאוונה )שבט(            ",
+    "eng_name": "ATAWNE                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 944,
+    "name": "עטרת                     ",
+    "eng_name": "ATERET                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 946,
+    "name": "עיילבון                  ",
+    "eng_name": "EILABUN                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 945,
+    "name": "עידן                     ",
+    "eng_name": "IDDAN                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 947,
+    "name": "עיינות                   ",
+    "eng_name": "AYANOT                   ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 948,
+    "name": "עילוט                    ",
+    "eng_name": "ILUT                     ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 949,
+    "name": "עין איילה                ",
+    "eng_name": "EN AYYALA                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 952,
+    "name": "עין גדי                  ",
+    "eng_name": "EN GEDI                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 951,
+    "name": "עין גב                   ",
+    "eng_name": "EN GEV                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 953,
+    "name": "עין דור                  ",
+    "eng_name": "EN DOR                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 950,
+    "name": "עין אל-אסד               ",
+    "eng_name": "EIN AL-ASAD              ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 954,
+    "name": "עין הבשור                ",
+    "eng_name": "EN HABESOR               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 955,
+    "name": "עין הוד                  ",
+    "eng_name": "EN HOD                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 956,
+    "name": "עין החורש                ",
+    "eng_name": "EN HAHORESH              ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 958,
+    "name": "עין הנצי\"ב               ",
+    "eng_name": "EN HANAZIV               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 959,
+    "name": "עין העמק                 ",
+    "eng_name": "EN HAEMEQ                ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 957,
+    "name": "עין המפרץ                ",
+    "eng_name": "EN HAMIFRAZ              ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 960,
+    "name": "עין השופט                ",
+    "eng_name": "EN HASHOFET              ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 961,
+    "name": "עין השלושה               ",
+    "eng_name": "EN HASHELOSHA            ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 963,
+    "name": "עין זיוון                ",
+    "eng_name": "EN ZIWAN                 ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 962,
+    "name": "עין ורד                  ",
+    "eng_name": "EN WERED                 ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 966,
+    "name": "עין חרוד )איחוד(         ",
+    "eng_name": "EN HAROD (IHUD)          ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 965,
+    "name": "עין חצבה                 ",
+    "eng_name": "EN HAZEVA                ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 967,
+    "name": "עין חרוד )מאוחד(         ",
+    "eng_name": "EN HAROD(ME'UHAD)        ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 968,
+    "name": "עין יהב                  ",
+    "eng_name": "EN YAHAV                 ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 969,
+    "name": "עין יעקב                 ",
+    "eng_name": "EN YA'AQOV               ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 970,
+    "name": "עין כרם-בי\"ס חקלאי       ",
+    "eng_name": "EN KAREM-B.S.HAQLA'I     ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 964,
+    "name": "עין חוד                  ",
+    "eng_name": "EIN HOD                  ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 972,
+    "name": "עין מאהל                 ",
+    "eng_name": "EIN MAHEL                ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 971,
+    "name": "עין כרמל                 ",
+    "eng_name": "EN KARMEL                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 975,
+    "name": "עין צורים                ",
+    "eng_name": "EN ZURIM                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 973,
+    "name": "עין נקובא                ",
+    "eng_name": "EIN NAQQUBA              ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 974,
+    "name": "עין עירון                ",
+    "eng_name": "EN IRON                  ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 977,
+    "name": "עין ראפה                 ",
+    "eng_name": "EIN RAFA                 ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 976,
+    "name": "עין קנייא                ",
+    "eng_name": "EIN QINIYYE              ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 978,
+    "name": "עין שמר                  ",
+    "eng_name": "EN SHEMER                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 979,
+    "name": "עין שריד                 ",
+    "eng_name": "EN SARID                 ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 980,
+    "name": "עין תמר                  ",
+    "eng_name": "EN TAMAR                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 981,
+    "name": "עינת                     ",
+    "eng_name": "ENAT                     ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 982,
+    "name": "עיר אובות                ",
+    "eng_name": "IR OVOT                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 984,
+    "name": "עלומים                   ",
+    "eng_name": "ALUMIM                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 983,
+    "name": "עכו                      ",
+    "eng_name": "AKKO                     ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 985,
+    "name": "עלי                      ",
+    "eng_name": "ELI                      ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 988,
+    "name": "עלמון                    ",
+    "eng_name": "ALMON                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 987,
+    "name": "עלמה                     ",
+    "eng_name": "ALMA                     ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 986,
+    "name": "עלי זהב                  ",
+    "eng_name": "ALE ZAHAV                ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 990,
+    "name": "עמיחי                    ",
+    "eng_name": "AMMIHAY                  ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 991,
+    "name": "עמינדב                   ",
+    "eng_name": "AMMINADAV                ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 992,
+    "name": "עמיעד                    ",
+    "eng_name": "AMMI'AD                  ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 993,
+    "name": "עמיעוז                   ",
+    "eng_name": "AMMI'OZ                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 989,
+    "name": "עמוקה                    ",
+    "eng_name": "AMUQQA                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 995,
+    "name": "עמיר                     ",
+    "eng_name": "AMIR                     ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 996,
+    "name": "עמנואל                   ",
+    "eng_name": "IMMANU'EL                ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 994,
+    "name": "עמיקם                    ",
+    "eng_name": "AMMIQAM                  ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 997,
+    "name": "עמקה                     ",
+    "eng_name": "AMQA                     ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 998,
+    "name": "ענב                      ",
+    "eng_name": "ENAV                     ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1001,
+    "name": "עץ אפרים                 ",
+    "eng_name": "EZ EFRAYIM               ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 1000,
+    "name": "עפולה                    ",
+    "eng_name": "AFULA                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 999,
+    "name": "עספיא                    ",
+    "eng_name": "ISIFYA                   ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1002,
+    "name": "עצמון שגב                ",
+    "eng_name": "ATSMON-SEGEV             ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1004,
+    "name": "עראמשה                   ",
+    "eng_name": "ARAMSHA                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1003,
+    "name": "עראבה                    ",
+    "eng_name": "ARRABE                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1005,
+    "name": "ערב אל נעים              ",
+    "eng_name": "ARRAB AL NAIM            ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1007,
+    "name": "ערוגות                   ",
+    "eng_name": "ARUGOT                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1006,
+    "name": "ערד                      ",
+    "eng_name": "ARAD                     ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1009,
+    "name": "ערערה-בנגב               ",
+    "eng_name": "AR'ARA-BANEGEV           ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1011,
+    "name": "עתלית                    ",
+    "eng_name": "ATLIT                    ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1008,
+    "name": "ערערה                    ",
+    "eng_name": "AR'ARA                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1010,
+    "name": "עשרת                     ",
+    "eng_name": "ASERET                   ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 1014,
+    "name": "פדואל                    ",
+    "eng_name": "PEDU'EL                  ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 1012,
+    "name": "עתניאל                   ",
+    "eng_name": "OTNI'EL                  ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1013,
+    "name": "פארן                     ",
+    "eng_name": "PARAN                    ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 1016,
+    "name": "פדיה                     ",
+    "eng_name": "PEDAYA                   ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 1015,
+    "name": "פדויים                   ",
+    "eng_name": "PEDUYIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1017,
+    "name": "פוריה - כפר עבודה        ",
+    "eng_name": "PORIYYA-KEFAR AVODA      ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1019,
+    "name": "פוריה עילית              ",
+    "eng_name": "PORIYYA ILLIT            ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1021,
+    "name": "פורת                     ",
+    "eng_name": "PORAT                    ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1018,
+    "name": "פוריה - נווה עובד        ",
+    "eng_name": "PORIYYA-NEWE OVED        ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1022,
+    "name": "פטיש                     ",
+    "eng_name": "PATTISH                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1024,
+    "name": "פלמחים                   ",
+    "eng_name": "PALMAHIM                 ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 1020,
+    "name": "פוריידיס                 ",
+    "eng_name": "FUREIDIS                 ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1023,
+    "name": "פלך                      ",
+    "eng_name": "PELEKH                   ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1026,
+    "name": "פסגות                    ",
+    "eng_name": "PESAGOT                  ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1025,
+    "name": "פני חבר                  ",
+    "eng_name": "PENE HEVER               ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1029,
+    "name": "פצאל                     ",
+    "eng_name": "PEZA'EL                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1027,
+    "name": "פסוטה                    ",
+    "eng_name": "FASSUTA                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1028,
+    "name": "פעמי תש\"ז                ",
+    "eng_name": "PA'AME TASHAZ            ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1031,
+    "name": "פקיעין חדשה              ",
+    "eng_name": "PEQI'IN HADASHA          ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1032,
+    "name": "פרדס חנה-כרכור           ",
+    "eng_name": "PARDES HANNA-KARKUR      ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1030,
+    "name": "פקיעין )בוקייעה(         ",
+    "eng_name": "PEQI'IN (BUQEI'A)        ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1034,
+    "name": "פרוד                     ",
+    "eng_name": "PAROD                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1033,
+    "name": "פרדסיה                   ",
+    "eng_name": "PARDESIYYA               ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1035,
+    "name": "פרזון                    ",
+    "eng_name": "PERAZON                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1036,
+    "name": "פרי גן                   ",
+    "eng_name": "PERI GAN                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1037,
+    "name": "פתח תקווה                ",
+    "eng_name": "PETAH TIQWA              ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 1039,
+    "name": "צאלים                    ",
+    "eng_name": "ZE'ELIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1041,
+    "name": "צבעון                    ",
+    "eng_name": "ZIV'ON                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1038,
+    "name": "פתחיה                    ",
+    "eng_name": "PETAHYA                  ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 1040,
+    "name": "צביה                     ",
+    "eng_name": "ZVIYYA                   ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1043,
+    "name": "צוחר                     ",
+    "eng_name": "ZOHAR                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1042,
+    "name": "צובה                     ",
+    "eng_name": "ZOVA                     ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1045,
+    "name": "צופים                    ",
+    "eng_name": "ZUFIN                    ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 1044,
+    "name": "צופיה                    ",
+    "eng_name": "ZOFIYYA                  ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 1046,
+    "name": "צופית                    ",
+    "eng_name": "ZOFIT                    ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 1047,
+    "name": "צופר                     ",
+    "eng_name": "ZOFAR                    ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 1050,
+    "name": "צור הדסה                 ",
+    "eng_name": "ZUR HADASSA              ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1049,
+    "name": "צוקים                    ",
+    "eng_name": "MAHANE BILDAD            ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1048,
+    "name": "צוקי ים                  ",
+    "eng_name": "SHOSHANNAT HAAMAQIM(     ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1051,
+    "name": "צור יצחק                 ",
+    "eng_name": "ZUR YIZHAQ               ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 1053,
+    "name": "צור נתן                  ",
+    "eng_name": "ZUR NATAN                ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 1054,
+    "name": "צוריאל                   ",
+    "eng_name": "ZURI'EL                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1052,
+    "name": "צור משה                  ",
+    "eng_name": "ZUR MOSHE                ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1056,
+    "name": "ציפורי                   ",
+    "eng_name": "ZIPPORI                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1055,
+    "name": "צורית                    ",
+    "eng_name": "ZURIT                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1057,
+    "name": "צלפון                    ",
+    "eng_name": "ZELAFON                  ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1058,
+    "name": "צנדלה                    ",
+    "eng_name": "SANDALA                  ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1060,
+    "name": "צפרירים                  ",
+    "eng_name": "ZAFRIRIM                 ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1059,
+    "name": "צפריה                    ",
+    "eng_name": "ZAFRIYYA                 ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 1062,
+    "name": "צרופה                    ",
+    "eng_name": "ZERUFA                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1063,
+    "name": "צרעה                     ",
+    "eng_name": "ZOR'A                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1065,
+    "name": "קבוצת יבנה               ",
+    "eng_name": "QEVUZAT YAVNE            ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 1061,
+    "name": "צפת                      ",
+    "eng_name": "ZEFAT                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1064,
+    "name": "קבועה )שבט(              ",
+    "eng_name": "QABBO'A                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1067,
+    "name": "קדימה-צורן               ",
+    "eng_name": "QADIMA-ZORAN             ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1068,
+    "name": "קדמה                     ",
+    "eng_name": "QEDMA                    ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1069,
+    "name": "קדמת צבי                 ",
+    "eng_name": "QIDMAT ZEVI              ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1070,
+    "name": "קדר                      ",
+    "eng_name": "QEDAR                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1071,
+    "name": "קדרון                    ",
+    "eng_name": "QIDRON                   ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 1072,
+    "name": "קדרים                    ",
+    "eng_name": "QADDARIM                 ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1073,
+    "name": "קודייראת א-צאנע)שבט(     ",
+    "eng_name": "QUDEIRAT AS-SANI         ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1075,
+    "name": "קוממיות                  ",
+    "eng_name": "QOMEMIYYUT               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1066,
+    "name": "קדומים                   ",
+    "eng_name": "QEDUMIM                  ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 1074,
+    "name": "קוואעין )שבט(            ",
+    "eng_name": "QAWA'IN                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1077,
+    "name": "קטורה                    ",
+    "eng_name": "QETURA                   ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 1078,
+    "name": "קיסריה                   ",
+    "eng_name": "QESARIYYA                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1079,
+    "name": "קלחים                    ",
+    "eng_name": "QELAHIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1080,
+    "name": "קליה                     ",
+    "eng_name": "QALYA                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1081,
+    "name": "קלנסווה                  ",
+    "eng_name": "QALANSAWE                ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1076,
+    "name": "קורנית                   ",
+    "eng_name": "QORANIT                  ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1082,
+    "name": "קלע                      ",
+    "eng_name": "QELA                     ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1083,
+    "name": "קציר                     ",
+    "eng_name": "QAZIR                    ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1084,
+    "name": "קצר א-סר                 ",
+    "eng_name": "                         ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1086,
+    "name": "קרית אונו                ",
+    "eng_name": "QIRYAT ONO               ",
+    "lodge": "רמת גן                   "
+  },
+  {
+    "id": 1087,
+    "name": "קרית ארבע                ",
+    "eng_name": "QIRYAT ARBA              ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1088,
+    "name": "קרית אתא                 ",
+    "eng_name": "QIRYAT ATTA              ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1089,
+    "name": "קרית ביאליק              ",
+    "eng_name": "QIRYAT BIALIK            ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1090,
+    "name": "קרית גת                  ",
+    "eng_name": "QIRYAT GAT               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1085,
+    "name": "קצרין                    ",
+    "eng_name": "QAZRIN                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1093,
+    "name": "קרית יערים               ",
+    "eng_name": "QIRYAT YE'ARIM           ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1091,
+    "name": "קרית טבעון               ",
+    "eng_name": "QIRYAT TIV'ON            ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1094,
+    "name": "קרית יערים)מוסד(         ",
+    "eng_name": "QIRYAT YE'ARIM(INSTI     ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1095,
+    "name": "קרית מוצקין              ",
+    "eng_name": "QIRYAT MOTZKIN           ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1096,
+    "name": "קרית מלאכי               ",
+    "eng_name": "QIRYAT MAL'AKHI          ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1097,
+    "name": "קרית נטפים               ",
+    "eng_name": "QIRYAT NETAFIM           ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 1092,
+    "name": "קרית ים                  ",
+    "eng_name": "QIRYAT YAM               ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1098,
+    "name": "קרית ענבים               ",
+    "eng_name": "QIRYAT ANAVIM            ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1099,
+    "name": "קרית עקרון               ",
+    "eng_name": "QIRYAT EQRON             ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 1100,
+    "name": "קרית שלמה                ",
+    "eng_name": "QIRYAT SHELOMO           ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1102,
+    "name": "קרני שומרון              ",
+    "eng_name": "QARNE SHOMERON           ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 1104,
+    "name": "ראמה                     ",
+    "eng_name": "RAME                     ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1101,
+    "name": "קרית שמונה               ",
+    "eng_name": "QIRYAT SHEMONA           ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1106,
+    "name": "ראס עלי                  ",
+    "eng_name": "RAS ALI                  ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1103,
+    "name": "קשת                      ",
+    "eng_name": "QESHET                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1105,
+    "name": "ראס אל-עין               ",
+    "eng_name": "RAS AL-EIN               ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1107,
+    "name": "ראש העין                 ",
+    "eng_name": "ROSH HAAYIN              ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 1109,
+    "name": "ראש צורים                ",
+    "eng_name": "ROSH ZURIM               ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1108,
+    "name": "ראש פינה                 ",
+    "eng_name": "ROSH PINNA               ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1111,
+    "name": "רבבה                     ",
+    "eng_name": "REVAVA                   ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 1110,
+    "name": "ראשון לציון              ",
+    "eng_name": "RISHON LEZIYYON          ",
+    "lodge": "ראשון לציון              "
+  },
+  {
+    "id": 1113,
+    "name": "רביבים                   ",
+    "eng_name": "REVIVIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1114,
+    "name": "רביד                     ",
+    "eng_name": "RAVID                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1112,
+    "name": "רבדים                    ",
+    "eng_name": "REVADIM                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1115,
+    "name": "רגבה                     ",
+    "eng_name": "REGBA                    ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1116,
+    "name": "רגבים                    ",
+    "eng_name": "REGAVIM                  ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1118,
+    "name": "רווחה                    ",
+    "eng_name": "REWAHA                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1119,
+    "name": "רוויה                    ",
+    "eng_name": "REWAYA                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1120,
+    "name": "רוח מדבר                 ",
+    "eng_name": "RUAH MIDBAR              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1121,
+    "name": "רוחמה                    ",
+    "eng_name": "RUHAMA                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1117,
+    "name": "רהט                      ",
+    "eng_name": "RAHAT                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1123,
+    "name": "רומת הייב                ",
+    "eng_name": "RUMAT HEIB               ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 1124,
+    "name": "רועי                     ",
+    "eng_name": "RO'I                     ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1125,
+    "name": "רותם                     ",
+    "eng_name": "ROTEM                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1122,
+    "name": "רומאנה                   ",
+    "eng_name": "RUMMANE                  ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 1126,
+    "name": "רחוב                     ",
+    "eng_name": "REHOV                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1128,
+    "name": "רחלים                    ",
+    "eng_name": "REHELIM                  ",
+    "lodge": "אריאל                    "
+  },
+  {
+    "id": 1129,
+    "name": "ריחאניה                  ",
+    "eng_name": "REIHANIYYE               ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1131,
+    "name": "ריינה                    ",
+    "eng_name": "REINE                    ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 1127,
+    "name": "רחובות                   ",
+    "eng_name": "REHOVOT                  ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 1132,
+    "name": "רימונים                  ",
+    "eng_name": "RIMMONIM                 ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1130,
+    "name": "ריחן                     ",
+    "eng_name": "REHAN                    ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1133,
+    "name": "רינתיה                   ",
+    "eng_name": "RINNATYA                 ",
+    "lodge": "פתח תקוה                 "
+  },
+  {
+    "id": 1135,
+    "name": "רם-און                   ",
+    "eng_name": "RAM-ON                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1137,
+    "name": "רמות השבים               ",
+    "eng_name": "RAMOT HASHAVIM           ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 1139,
+    "name": "רמות מנשה                ",
+    "eng_name": "RAMOT MENASHE            ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1134,
+    "name": "רכסים                    ",
+    "eng_name": "REKHASIM                 ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1136,
+    "name": "רמות                     ",
+    "eng_name": "RAMOT                    ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1138,
+    "name": "רמות מאיר                ",
+    "eng_name": "RAMOT ME'IR              ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 1140,
+    "name": "רמות נפתלי               ",
+    "eng_name": "RAMOT NAFTALI            ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1142,
+    "name": "רמת גן                   ",
+    "eng_name": "RAMAT GAN                ",
+    "lodge": "רמת גן                   "
+  },
+  {
+    "id": 1143,
+    "name": "רמת דוד                  ",
+    "eng_name": "RAMAT DAWID              ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1141,
+    "name": "רמלה                     ",
+    "eng_name": "RAMLA                    ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 1144,
+    "name": "רמת הכובש                ",
+    "eng_name": "RAMAT HAKOVESH           ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 1147,
+    "name": "רמת יוחנן                ",
+    "eng_name": "RAMAT YOHANAN            ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1145,
+    "name": "רמת השופט                ",
+    "eng_name": "RAMAT HASHOFET           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1146,
+    "name": "רמת השרון                ",
+    "eng_name": "RAMAT HASHARON           ",
+    "lodge": "הרצליה                   "
+  },
+  {
+    "id": 1149,
+    "name": "רמת מגשימים              ",
+    "eng_name": "RAMAT MAGSHIMIM          ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1148,
+    "name": "רמת ישי                  ",
+    "eng_name": "RAMAT YISHAY             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1150,
+    "name": "רמת צבי                  ",
+    "eng_name": "RAMAT ZEVI               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1151,
+    "name": "רמת רזיאל                ",
+    "eng_name": "RAMAT RAZI'EL            ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1153,
+    "name": "רנן                      ",
+    "eng_name": "RANNEN                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1152,
+    "name": "רמת רחל                  ",
+    "eng_name": "RAMAT RAHEL              ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1155,
+    "name": "רעננה                    ",
+    "eng_name": "RA'ANANA                 ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 1154,
+    "name": "רעים                     ",
+    "eng_name": "RE'IM                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1157,
+    "name": "רשפון                    ",
+    "eng_name": "RISHPON                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1158,
+    "name": "רשפים                    ",
+    "eng_name": "RESHAFIM                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1159,
+    "name": "רתמים                    ",
+    "eng_name": "RETAMIM                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1160,
+    "name": "שאר ישוב                 ",
+    "eng_name": "SHE'AR YASHUV            ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1156,
+    "name": "רקפת                     ",
+    "eng_name": "RAQEFET                  ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1161,
+    "name": "שבי דרום                 ",
+    "eng_name": "SHAVE DAROM              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1163,
+    "name": "שבי שומרון               ",
+    "eng_name": "SHAVE SHOMERON           ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1164,
+    "name": "שבלי - אום אל-גנם        ",
+    "eng_name": "SHIBLI                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1162,
+    "name": "שבי ציון                 ",
+    "eng_name": "SHAVE ZIYYON             ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1166,
+    "name": "שדה אילן                 ",
+    "eng_name": "SEDE ILAN                ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1167,
+    "name": "שדה אליהו                ",
+    "eng_name": "SEDE ELIYYAHU            ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1165,
+    "name": "שגב-שלום                 ",
+    "eng_name": "SEGEV-SHALOM             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1169,
+    "name": "שדה בוקר                 ",
+    "eng_name": "SEDE BOQER               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1168,
+    "name": "שדה אליעזר               ",
+    "eng_name": "SEDE ELI'EZER            ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1171,
+    "name": "שדה ורבורג               ",
+    "eng_name": "SEDE WARBURG             ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 1173,
+    "name": "שדה יעקב                 ",
+    "eng_name": "SEDE YA'AQOV             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1170,
+    "name": "שדה דוד                  ",
+    "eng_name": "SEDE DAWID               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1172,
+    "name": "שדה יואב                 ",
+    "eng_name": "SEDE YO'AV               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1175,
+    "name": "שדה משה                  ",
+    "eng_name": "SEDE MOSHE               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1176,
+    "name": "שדה נחום                 ",
+    "eng_name": "SEDE NAHUM               ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1177,
+    "name": "שדה נחמיה                ",
+    "eng_name": "SEDE NEHEMYA             ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1174,
+    "name": "שדה יצחק                 ",
+    "eng_name": "SEDE YIZHAQ              ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1178,
+    "name": "שדה ניצן                 ",
+    "eng_name": "SEDE NIZZAN              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1179,
+    "name": "שדה עוזיהו               ",
+    "eng_name": "SEDE UZZIYYAHU           ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1181,
+    "name": "שדות ים                  ",
+    "eng_name": "SEDOT YAM                ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1180,
+    "name": "שדה צבי                  ",
+    "eng_name": "SEDE ZEVI                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1182,
+    "name": "שדות מיכה                ",
+    "eng_name": "SEDOT MIKHA              ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1184,
+    "name": "שדי חמד                  ",
+    "eng_name": "SEDE HEMED               ",
+    "lodge": "כפר סבא                  "
+  },
+  {
+    "id": 1185,
+    "name": "שדי תרומות               ",
+    "eng_name": "SEDE TERUMOT             ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1186,
+    "name": "שדמה                     ",
+    "eng_name": "SHEDEMA                  ",
+    "lodge": "רחובות                   "
+  },
+  {
+    "id": 1183,
+    "name": "שדי אברהם                ",
+    "eng_name": "SEDE AVRAHAM             ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1188,
+    "name": "שדמות מחולה              ",
+    "eng_name": "SHADMOT MEHOLA           ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1191,
+    "name": "שובה                     ",
+    "eng_name": "SHUVA                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1187,
+    "name": "שדמות דבורה              ",
+    "eng_name": "SHADMOT DEVORA           ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1193,
+    "name": "שוהם                     ",
+    "eng_name": "SHOHAM                   ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 1190,
+    "name": "שואבה                    ",
+    "eng_name": "SHO'EVA                  ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1192,
+    "name": "שובל                     ",
+    "eng_name": "SHOVAL                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1189,
+    "name": "שדרות                    ",
+    "eng_name": "SEDEROT                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1194,
+    "name": "שומרה                    ",
+    "eng_name": "SHOMERA                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1195,
+    "name": "שומריה                   ",
+    "eng_name": "SHOMERIYYA               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1196,
+    "name": "שוקדה                    ",
+    "eng_name": "SHOQEDA                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1197,
+    "name": "שורש                     ",
+    "eng_name": "SHORESH                  ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1200,
+    "name": "שזור                     ",
+    "eng_name": "SHEZOR                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1199,
+    "name": "שושנת העמקים             ",
+    "eng_name": "SHOSHANNAT HAAMAQIM      ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1198,
+    "name": "שורשים                   ",
+    "eng_name": "SHORASHIM                ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1203,
+    "name": "שיבולים                  ",
+    "eng_name": "SHIBBOLIM                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1202,
+    "name": "שחרות                    ",
+    "eng_name": "SHAHARUT                 ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 1204,
+    "name": "שיטים                    ",
+    "eng_name": "NAHAL SHITTIM            ",
+    "lodge": "אילת                     "
+  },
+  {
+    "id": 1201,
+    "name": "שחר                      ",
+    "eng_name": "SHAHAR                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1205,
+    "name": "שייח' דנון               ",
+    "eng_name": "SHEIKH DANNUN            ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1206,
+    "name": "שילה                     ",
+    "eng_name": "SHILO                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1207,
+    "name": "שילת                     ",
+    "eng_name": "SHILAT                   ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 1210,
+    "name": "שלווה במדבר              ",
+    "eng_name": "SHALVA BAMIDBAR          ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1209,
+    "name": "שלווה                    ",
+    "eng_name": "SHALWA                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1211,
+    "name": "שלוחות                   ",
+    "eng_name": "SHELUHOT                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1208,
+    "name": "שכניה                    ",
+    "eng_name": "SHEKHANYA                ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1212,
+    "name": "שלומי                    ",
+    "eng_name": "SHELOMI                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1213,
+    "name": "שלומית                   ",
+    "eng_name": "SHLOMIT                  ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1214,
+    "name": "שמיר                     ",
+    "eng_name": "SHAMIR                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1216,
+    "name": "שמרת                     ",
+    "eng_name": "SHAMERAT                 ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1215,
+    "name": "שמעה                     ",
+    "eng_name": "SHIM'A                   ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1217,
+    "name": "שמשית                    ",
+    "eng_name": "SHIMSHIT                 ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1219,
+    "name": "שניר                     ",
+    "eng_name": "SENIR                    ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1220,
+    "name": "שעב                      ",
+    "eng_name": "SHA'AB                   ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1218,
+    "name": "שני                      ",
+    "eng_name": "SHANI                    ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1221,
+    "name": "שעורים                   ",
+    "eng_name": "SE'ORIM                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1223,
+    "name": "שעלבים                   ",
+    "eng_name": "SHA'ALVIM                ",
+    "lodge": "רמלה                     "
+  },
+  {
+    "id": 1222,
+    "name": "שעל                      ",
+    "eng_name": "SHA'AL                   ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1224,
+    "name": "שער אפרים                ",
+    "eng_name": "SHA'AR EFRAYIM           ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1225,
+    "name": "שער הגולן                ",
+    "eng_name": "SHA'AR HAGOLAN           ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1227,
+    "name": "שער מנשה                 ",
+    "eng_name": "SHA'AR MENASHE           ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1226,
+    "name": "שער העמקים               ",
+    "eng_name": "SHA'AR HAAMAQIM          ",
+    "lodge": "חיפה                     "
+  },
+  {
+    "id": 1228,
+    "name": "שערי תקווה               ",
+    "eng_name": "SHA'ARE TIQWA            ",
+    "lodge": "ראש העין                 "
+  },
+  {
+    "id": 1230,
+    "name": "שפיר                     ",
+    "eng_name": "SHAFIR                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1229,
+    "name": "שפיים                    ",
+    "eng_name": "SHEFAYIM                 ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1233,
+    "name": "שקד                      ",
+    "eng_name": "SHAQED                   ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1231,
+    "name": "שפר                      ",
+    "eng_name": "SHEFER                   ",
+    "lodge": "צפת                      "
+  },
+  {
+    "id": 1236,
+    "name": "שריגים )לי-און(          ",
+    "eng_name": "LI-ON                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1234,
+    "name": "שקף                      ",
+    "eng_name": "SHEQEF                   ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1232,
+    "name": "שפרעם                    ",
+    "eng_name": "SHEFAR'AM                ",
+    "lodge": "נצרת עילית               "
+  },
+  {
+    "id": 1238,
+    "name": "שרשרת                    ",
+    "eng_name": "SHARSHERET               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1237,
+    "name": "שריד                     ",
+    "eng_name": "SARID                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1235,
+    "name": "שרונה                    ",
+    "eng_name": "SHARONA                  ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1239,
+    "name": "שתולה                    ",
+    "eng_name": "SHETULA                  ",
+    "lodge": "עכו                      "
+  },
+  {
+    "id": 1240,
+    "name": "שתולים                   ",
+    "eng_name": "SHETULIM                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1241,
+    "name": "תאשור                    ",
+    "eng_name": "TE'ASHUR                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1244,
+    "name": "תומר                     ",
+    "eng_name": "TOMER                    ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1243,
+    "name": "תובל                     ",
+    "eng_name": "TUVAL                    ",
+    "lodge": "כרמיאל                   "
+  },
+  {
+    "id": 1242,
+    "name": "תדהר                     ",
+    "eng_name": "TIDHAR                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1246,
+    "name": "תימורים                  ",
+    "eng_name": "TIMMORIM                 ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1247,
+    "name": "תירוש                    ",
+    "eng_name": "TIROSH                   ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1245,
+    "name": "תושיה                    ",
+    "eng_name": "TUSHIYYA                 ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1250,
+    "name": "תל יצחק                  ",
+    "eng_name": "TEL YIZHAQ               ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1248,
+    "name": "תל אביב - יפו            ",
+    "eng_name": "TEL AVIV - YAFO          ",
+    "lodge": "ת\"א - מרכז               "
+  },
+  {
+    "id": 1249,
+    "name": "תל יוסף                  ",
+    "eng_name": "TEL YOSEF                ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1252,
+    "name": "תל עדשים                 ",
+    "eng_name": "TEL ADASHIM              ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1251,
+    "name": "תל מונד                  ",
+    "eng_name": "TEL MOND                 ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1253,
+    "name": "תל קציר                  ",
+    "eng_name": "TEL QAZIR                ",
+    "lodge": "טבריה                    "
+  },
+  {
+    "id": 1255,
+    "name": "תל תאומים                ",
+    "eng_name": "TEL TE'OMIM              ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1254,
+    "name": "תל שבע                   ",
+    "eng_name": "TEL SHEVA                ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1256,
+    "name": "תלם                      ",
+    "eng_name": "TELEM                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1257,
+    "name": "תלמי אליהו               ",
+    "eng_name": "TALME ELIYYAHU           ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1259,
+    "name": "תלמי ביל\"ו               ",
+    "eng_name": "TALME BILU               ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1260,
+    "name": "תלמי יוסף                ",
+    "eng_name": "TALME YOSEF              ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1261,
+    "name": "תלמי יחיאל               ",
+    "eng_name": "TALME YEHI'EL            ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1263,
+    "name": "תלמים                    ",
+    "eng_name": "TELAMIM                  ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1258,
+    "name": "תלמי אלעזר               ",
+    "eng_name": "TALME EL'AZAR            ",
+    "lodge": "חדרה                     "
+  },
+  {
+    "id": 1262,
+    "name": "תלמי יפה                 ",
+    "eng_name": "TALME YAFE               ",
+    "lodge": "אשקלון                   "
+  },
+  {
+    "id": 1264,
+    "name": "תמרת                     ",
+    "eng_name": "TIMRAT                   ",
+    "lodge": "עפולה                    "
+  },
+  {
+    "id": 1266,
+    "name": "תעוז                     ",
+    "eng_name": "TA'OZ                    ",
+    "lodge": "בית שמש                  "
+  },
+  {
+    "id": 1268,
+    "name": "תקומה                    ",
+    "eng_name": "TEQUMA                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1267,
+    "name": "תפרח                     ",
+    "eng_name": "TIFRAH                   ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1265,
+    "name": "תנובות                   ",
+    "eng_name": "TENUVOT                  ",
+    "lodge": "נתניה                    "
+  },
+  {
+    "id": 1269,
+    "name": "תקוע                     ",
+    "eng_name": "TEQOA                    ",
+    "lodge": "ירושלים                  "
+  },
+  {
+    "id": 1271,
+    "name": "תראבין א-צאנע)ישוב(      ",
+    "eng_name": "TARABIN AS-SANI          ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1270,
+    "name": "תראבין א-צאנע )שבט(      ",
+    "eng_name": "TARABIN AS-SANI          ",
+    "lodge": "באר שבע                  "
+  },
+  {
+    "id": 1272,
+    "name": "תרום                     ",
+    "eng_name": "TARUM                    ",
+    "lodge": "בית שמש                  "
+  }
+]
